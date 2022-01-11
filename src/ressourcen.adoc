@@ -1,0 +1,16 @@
+== Ressourcen
+
+Ressourcen werden eingesetzt, um Dinge zu kaufen, Lebensstil und Status auszudrücken. Damit die Spieler nicht
+jede einzelne Goldmünze ihrer Charaktere buchhaltärisch erfassen müssen, verwendet _Schwert & Schicksal_ ein
+einfacheres System basierend auf der Fertigkeit _Ressourcen_ aus den Grundregeln von Fate Core.
+
+Abweichen zu den Grundregeln kann diese Fertigkeit jedoch nicht erworben werden und wird auch nicht
+in der Fertigkeitenpyramide oder zur Säulenbildung mit herangezogen. Diese Fertigkeit wird durch die 
+Spielleitung gesteuert und zu _Meilensteinen_ modifiziert. Dabei sind auch größere Sprünge möglich.
+
+Die Spieler können diese Fertigkeit wie in den Grundregeln beschrieben einsetzen um kleinere 
+Ausrüstungen zu kaufen oder Kontakte zu bestechen usw. Übliche Aktivitäten, wie das Bezahlen einer 
+Übernachtung im Wirtshaus oder einer Mahlzeit sollten kein Hindernis darstellen und folglich keine Prober
+erfordern. Wenn die Charaktere aber im "besten Gasthaus der ganzen nördlichen Gebiete" in der "Königssuite"
+nächtigen wollen, kann das schon ein Hindernis mit "gutem passiven Widerstand" darstellen, dass die 
+Charaktere mittels _Ressourcen_ überwinden müssen (oder sie finden einen anderen Weg in die Suite).

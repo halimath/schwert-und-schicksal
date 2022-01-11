@@ -1,0 +1,105 @@
+font:
+  catalog:
+    Roboto:
+      normal: google-roboto/Roboto-Regular.ttf
+      italic: google-roboto/Roboto-Italic.ttf
+      bold: google-roboto/Roboto-Bold.ttf
+      bold_italic: google-roboto/Roboto-BoldItalic.ttf
+    Fate-Core:
+      normal: fate-core/Fate Core Font.ttf
+      italic: fate-core/Fate Core Font.ttf
+      bold: fate-core/Fate Core Font.ttf
+      bold_italic: fate-core/Fate Core Font.ttf
+  
+page:
+  layout: portrait
+  margin: [24mm, 28mm, 24mm, 28mm]
+  size: A4
+
+base:
+  font-color: #333333
+  font-family: Roboto
+  font-size: 12
+  line-height-length: 17
+  line-height: $base-line-height-length / $base-font-size
+  align: justify
+
+sidebar:
+  background-color: #fafafa
+  border-color: #682a00
+  border-radius: 4
+  border-width: 2
+  title:
+    font-color: #682a00
+
+role:
+  icon:
+    font-family: Fate-Core
+    font-size: 18
+    font-color: #682a00
+  aspekt:
+    font-color: #682a00
+    font-style: italic
+
+admonition:
+  label:
+    font-color: #682a00
+
+example:
+  border-color: #682a00
+  border-radius: 4
+
+vertical-spacing: $base-line-height-length
+
+heading:
+  font-color: #682a00
+  font-size: 17
+  font-style: bold
+  line-height: 1.2
+  margin-bottom: $vertical-spacing
+
+title-page:
+  title:
+    font-size: 20
+    font-style: bold
+    font-color: #682a00
+  subtitle:
+    font-color: #682a00
+    font-style: normal
+  authors:
+    content:
+      name_only: "{author}"
+      # with_email: "{author}"
+
+link:
+  font-color: #682a00
+
+outline-list:
+  indent: $base-font-size * 1.5
+
+footer:
+  height: $base-line-height-length * 2.5
+  line-height: 1
+  center:
+  recto:
+    right:
+      content: ""
+    center:
+      content: '{page-number}'
+  verso:
+    left:
+      content: ""
+    center:
+      content: $footer-recto-center-content
+
+header:
+  height: $base-line-height-length * 2.5
+  font-size: 8
+  line-height: 1
+  recto:
+    left:
+      content: "{section-or-chapter-title}"
+    right:
+      content: "{document-title} v{revnumber}"
+    center:
+      content: ""

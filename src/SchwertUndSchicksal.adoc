@@ -1,0 +1,49 @@
+= Schwert & Schicksal: Ein _Fate Core_ Rollenspiel in einem high-Fantasy Setting
+:author: Alexander Metzner <alexander.metzner@gmail.com>
+:revnumber: 0.1.0
+:revnumber-caption: Version
+:doctype: book
+:note-caption: Hinweis
+:caution-caption: Work in progress
+:toc:
+:toc-title: Inhaltsverzeichnis
+:toclevels: 4
+:example-caption: Beispiel
+:sectanchors:
+:sectnums:
+:chapter-signifier: Kapitel
+
+[preface]
+== Einleitung
+_Schwert & Schicksal_ ist ein Setting für ein high-Fantasy Rollenspiel für das  generische System _Fate Core_. 
+Diese Regeln basieren auf den Regeln aus dem 
+https://faterpg.de/download/offiziellesmaterial/fate_core,_turbo-fate,_fate_accelerated/Fate-Core_Downloadversion.pdf[Fate Core Grundregelwerk Version 2.0].
+
+Diese Regeln verzichten auf große Kataloge von Waffen, Rüstungen, Ausrüstung, Zauber oder magische Gegenstände.
+Statt dessen werden Aspekte genutzt, um individuelle Ausprägungen zu repräsentieren. Dies soll den Spielfluss
+verbessern und den Fokus auf die Erzählung legen.
+
+CAUTION: Diese Regeln sind zur Zeit noch in der Entwicklung und werden in Teilen überarbeitet.
+
+include::./charakteraspekte.adoc[leveloffset=0]
+
+include::./fertigkeiten.adoc[leveloffset=0]
+
+include::./magie.adoc[leveloffset=0]
+
+include::./ressourcen.adoc[leveloffset=0]
+
+include::./waffen.adoc[leveloffset=0]
+
+[appendix]
+include::./changelog.adoc[leveloffset=1]
+
+[appendix]
+== Lizenz
+
+Die Regeln von _Schwert & Schicksal_ werden unter der 
+http://www.opengamingfoundation.org/ogl.html[Open Gaming License (OGL) Version 1.0a] veröffentlicht. Diese
+Arbeit basiert auf den Regeln von Fate Core, die ebenfalls unter der OGL veröffentlicht werden.
+
+The Fate Core font is © Evil Hat Productions, LLC and is used with permission. The Four Actions icons were 
+designed by Jeremy Keller.

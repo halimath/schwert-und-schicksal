@@ -1,0 +1,108 @@
+== Waffen, Rüstungen und sonstige Ausrüstung
+
+CAUTION: Muss komplett überarbeitet werden!
+
+Waffengefechte im Universum von Shadowrun sind tödlich und ein Ausweichen gegen ein 
+Hochgeschwindigkeitsgeschoss ist selbst mit Reflexbooster nicht wirklich möglich. Daher kann gegen 
+Fernkampfangriffe _keine_ Verteidigung eingesetzt werden.
+
+[sidebar]
+****
+Waffen und Ausrüstungen folgen den Extras-Regeln aus dem Fate Core Grundregelbuch ab S.285. Sie 
+verfügen über eine Waffen- bzw. Rüstungsstufe, die zusätzliche Erfolgsstufen generieren bzw.
+egalisieren.
+****
+
+Waffen liefern zusätzliche Trefferstufen bei einem Erfolg, Rüstungen "verschlucken" Trefferstufen bei 
+einem Treffer. Es gibt vier Stufen für Waffen und Rüstungen.
+
+<<<
+
+=== Waffen und Rüstungen
+
+[frame=ends, grid=rows, stripes=even, cols="^1,3*<4a"]
+|===
+| Stufe | Fernkampfwaffen | Nahkampfwaffen | Rüstungen
+
+| 0
+| -
+| 
+* Faustkampf
+* Ringkampf
+| 
+* nackte Haut
+* Alltagskleidung
+
+| 1
+| 
+* Holdout-Pistolen
+* leichte Pistolen
+* Automatikpistolen
+* Shuriken
+* Wurfmesser
+| 
+* Messer
+* improvisierte Waffen (Motorradkette, Besenstiel, ...)
+| 
+* Panzerkleidung
+* Chamäleonanzug
+
+| 2
+| 
+* schwere Pistolen
+* Maschinenpistolen
+* Betäubungsgranaten
+| 
+* Schlagring
+* Kampfmesser
+* Knüppel
+| 
+* Panzerweste
+* Panzerjacke
+* Gefütterter Mantel
+
+| 3
+| 
+* Schrotflinten
+* Jagdgewehre
+* Sturmgewehre
+* Splittergranaten
+* Sprenggranaten
+| 
+* Kampfaxt
+* Katana
+* Schwert
+| 
+* Ganzkörperpanzerung
+
+| 4
+| 
+* Scharfschützengewehre
+* Maschinengewehre
+* Granaten- und Raketenwerfer
+* Sprengstoffe
+| 
+| 
+* militärische Spezialpanzerungen
+|===
+
+Andere Schutzausrüstungen wie Helme, Antiterrorschilde oder ähnliches werden nicht durch Rüstungsstufen
+repräsentiert sondern sollten dem Charakter einen entsprechenden Aspekt verleihen, den er einsetzen kann.
+
+==== Reichweiten
+
+Es gibt keine pauschalen Reichweitenbegrenzungen für Waffen. Statt dessen solltet ihr gemeinsam überlegen,
+welche Gegner von einer Waffe noch erreicht werden können. Verwendet Aspekte wie [.aspekt]#sehr weit 
+entfernt# mit freien Einsätzen für die Verteidigung um entsprechende Situationen aufzulösen.
+
+=== Weitere Ausrüstung
+
+Wir gehen davon aus, dass die Charaktere erfahrene Abenteurer sind, die das nötige Handwerkszeug mitbringen,
+um in der Welt von _Schwert & Schicksal_ zu überleben. Wenn die Charaktere eine Laterne, ein Seil oder eine
+Tasche benötigen, dann sollten sie sie einfach dabei haben. Gilt das nicht, sollte die SL vorher einen 
+entsprechenden Aspekt festlegen - wie bspw. [.aspekt]#nur die nackte Haut# - so dass alle wissen, dass 
+Ausrüstung zur Zeit rar ist. Dies gilt auch für die notwendigen Zaubermaterialien eines Magiers.
+
+Besondere Ausrüstungsgegenstände, wie bspw. das "Herz eines jungen roten Drachen" oder "100 Findernägel von
+Ogern der südlichen Sümpfe" sind von dieser Regel natürlich ausgenommen. Die SL hat immer das letzte Wort,
+ob ein Gegenstand "üblich" oder eher nicht ist.
