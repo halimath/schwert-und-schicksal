@@ -1,11 +1,5 @@
 == Waffen, Rüstungen und sonstige Ausrüstung
 
-CAUTION: Muss komplett überarbeitet werden!
-
-Waffengefechte im Universum von Shadowrun sind tödlich und ein Ausweichen gegen ein 
-Hochgeschwindigkeitsgeschoss ist selbst mit Reflexbooster nicht wirklich möglich. Daher kann gegen 
-Fernkampfangriffe _keine_ Verteidigung eingesetzt werden.
-
 [sidebar]
 ****
 Waffen und Ausrüstungen folgen den Extras-Regeln aus dem Fate Core Grundregelbuch ab S.285. Sie 
@@ -16,78 +10,86 @@ egalisieren.
 Waffen liefern zusätzliche Trefferstufen bei einem Erfolg, Rüstungen "verschlucken" Trefferstufen bei 
 einem Treffer. Es gibt vier Stufen für Waffen und Rüstungen.
 
+Wichtig ist dabei, dass diese Trefferstufen erst zum Tragen, wenn ein Treffer erfolgt ist. Das bedeutet,
+dass der angreifende Charakter das Ziel zunächst treffen muss, bevor der zusätzliche Schaden der Waffe zum
+Tragen kommt.
+
 <<<
 
 === Waffen und Rüstungen
 
+CAUTION: Weitere Waffen/Rüstungen zuordnen?
+
 [frame=ends, grid=rows, stripes=even, cols="^1,3*<4a"]
 |===
-| Stufe | Fernkampfwaffen | Nahkampfwaffen | Rüstungen
+| Stufe | Nahkampfwaffen | Fernkampfwaffen | Rüstungen
 
 | 0
-| -
 | 
 * Faustkampf
 * Ringkampf
+|
+* Netz
+* Bola
 | 
 * nackte Haut
 * Alltagskleidung
 
 | 1
 | 
-* Holdout-Pistolen
-* leichte Pistolen
-* Automatikpistolen
-* Shuriken
+* Messer
+* Dolch
+* Knüppel
+|
+* Blasrohr
+* Schleuder
 * Wurfmesser
 | 
-* Messer
-* improvisierte Waffen (Motorradkette, Besenstiel, ...)
-| 
-* Panzerkleidung
-* Chamäleonanzug
+_Leichte Rüstungungen_
+
+* Waffenrock
+* Lederrüstung
+* beschlagenes Leder
+* Kettenhemd 
 
 | 2
 | 
-* schwere Pistolen
-* Maschinenpistolen
-* Betäubungsgranaten
-| 
-* Schlagring
-* Kampfmesser
-* Knüppel
-| 
-* Panzerweste
-* Panzerjacke
-* Gefütterter Mantel
+* Kurzschwert
+* Langschwert
+* leichter Streitkolben
+* Streitaxt
+* Streithammer
+|
+* Kurzbogen
+* Handarmbrust
+* leichte Armbrust
+* Wurfaxt
+|
+_Mittelschwere Rüstungen_
+
+* Schuppenpanzer
+* Kettenpanzer
+* Brustplatte
 
 | 3
 | 
-* Schrotflinten
-* Jagdgewehre
-* Sturmgewehre
-* Splittergranaten
-* Sprenggranaten
+* schwerer Streitkolben
+* Morgenstern
 | 
-* Kampfaxt
-* Katana
-* Schwert
+* schwere Armbrust
 | 
-* Ganzkörperpanzerung
+* Schienenpanzer
+* Bänderpanzer
+* Plattenpanzer
+* Ritterrüstung
 
 | 4
 | 
-* Scharfschützengewehre
-* Maschinengewehre
-* Granaten- und Raketenwerfer
-* Sprengstoffe
 | 
 | 
-* militärische Spezialpanzerungen
 |===
 
-Andere Schutzausrüstungen wie Helme, Antiterrorschilde oder ähnliches werden nicht durch Rüstungsstufen
-repräsentiert sondern sollten dem Charakter einen entsprechenden Aspekt verleihen, den er einsetzen kann.
+CAUTION: Wie gehen wir mit Schilden um? Aspekte?
 
 ==== Reichweiten
 
