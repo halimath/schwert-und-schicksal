@@ -5,18 +5,18 @@ https://github.com/halimath/schwert-und-schicksal/actions/workflows/ci.yml[image
 
 Ein high-Fantasy Setting für https://faterpg.de/[Fate Core] basierte Rollenspiele.
 
-Dieses Repo enthält die Quellen für das Rollenspielsystem _Schwert & Schicksal_ basierend auf den Regeln von 
+Dieses Repo enthält die Quellen für das Rollenspielsystem _Schwert & Schicksal_ basierend auf den Regeln von
 Fate Core. _Schwert & Schicksal_ ist ein high-Fantasy Setting (ähnlich zu _Dungeons & Dragons_ oder
 _Das schwarze Auge_) in einer Fantasywelt, deren Grundlage das Mittelalter im westlichen Europa darstellt.
 
-Du solltes vertraut mit Fate Core sein, um diese Regeln sinnvoll einsetzen zu können. Erfahrungen mit anderen
-Fantasy-Settings sind ebenfalls nützlich. Am besten hast Du das Fate Core Grundregelbuch zur Hand, das es 
-kostenlos als 
-https://faterpg.de/download/offiziellesmaterial/fate_core,_turbo-fate,_fate_accelerated/Fate-Core_Downloadversion.pdf[PDF] 
+Du solltest vertraut mit Fate Core sein, um diese Regeln sinnvoll einsetzen zu können. Erfahrungen mit anderen
+Fantasy-Settings sind ebenfalls nützlich. Am besten hast Du das Fate Core Grundregelbuch zur Hand, das es
+kostenlos als
+https://faterpg.de/download/offiziellesmaterial/fate_core,_turbo-fate,_fate_accelerated/Fate-Core_Downloadversion.pdf[PDF]
 gibt.
 
 == Benutzung der Regeln
-Wenn Du _Schwert & Schicksla_ einfach nur spielen möchtest, schau am besten in die
+Wenn Du _Schwert & Schicksal_ einfach nur spielen möchtest, schau am besten in die
 https://github.com/halimath/schwert-und-schicksal/releases[Releases] - dort findest Du die Regeln als
 PDF und HTML.
 
@@ -24,16 +24,16 @@ PDF und HTML.
 
 Wenn Du die Regeln anpassen oder ergänzen möchtest, findest Du in diesem Repo alle notwendigen Quellen.
 
-Die Regeln selber werden mit https://asciidoctor.org/docs/asciidoc-writers-guide/[AsciiDoc] erstellt. 
+Die Regeln selber werden mit https://asciidoctor.org/docs/asciidoc-writers-guide/[AsciiDoc] erstellt.
 Aus diesem Format können verschiedene andere Formate generiert werden - wir benutzen PDF und HTML.
 
 Die Generierung erfolgt mit Hilfe eines Containers (wir benutzen standardmäßig `podman` aber es
 funktioniert genauso gut mit `docker`). Damit Du die Regeln lokal generieren kannst, brauchst Du
-eine installiere _container runtime_ (also bspw. `podman` unter Linux oder `Docker Desktop` unter
+eine installierte _container runtime_ (also bspw. `podman` unter Linux oder `Docker Desktop` unter
 Windows oder MacOS X). Außerdem ist GNU Make sinnvoll, da wir damit die Erstellung automatisiert
 haben.
 
-Um alle Regeln zu erzeugen, kannst Du einfach 
+Um alle Regeln zu erzeugen, kannst Du einfach
 
 ```
 $ make
@@ -45,7 +45,7 @@ aufrufen. Wenn Du `docker` benutzen willst musst Du
 $ make podman=docker
 ```
 
-verwenden. Anschließend findest Du ein `out` Verzeichnis mit PDF und HTML. 
+verwenden. Anschließend findest Du ein `out` Verzeichnis mit PDF und HTML.
 
 Für das Bearbeiten der AsciiDoc-Quellen empfehlen wir einen Editor mit Vorschau und Syntax-Highlighting.
 VSCode mit der AsciiDoc-Extension sind eine sehr gute Wahl.
@@ -54,6 +54,6 @@ include::./src/changelog.adoc[leveloffset=1]
 
 == Lizenz
 
-Die Regeln von _Schwert & Schicksal_ werden unter der 
-http://www.opengamingfoundation.org/ogl.html[Open Gaming License (OGL) Version 1.0a] veröffentlicht. 
+Die Regeln von _Schwert & Schicksal_ werden unter der
+http://www.opengamingfoundation.org/ogl.html[Open Gaming License (OGL) Version 1.0a] veröffentlicht.
 Diese Arbeit basiert auf den Regeln von Fate Core, die ebenfalls unter der OGL veröffentlicht werden.
