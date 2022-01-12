@@ -1,5 +1,8 @@
 = Schwert & Schicksal
 
+https://github.com/halimath/schwert-und-schicksal/actions/workflows/ci.yml[image:https://github.com/halimath/schwert-und-schicksal/workflows/ci/badge.svg[]]
+
+
 Ein high-Fantasy Setting für https://faterpg.de/[Fate Core] basierte Rollenspiele.
 
 Dieses Repo enthält die Quellen für das Rollenspielsystem _Schwert & Schicksal_ basierend auf den Regeln von 
