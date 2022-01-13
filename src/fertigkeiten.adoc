@@ -169,10 +169,11 @@ verbessern.
 _Kraft_ wird wie in den Fate Core Grundregeln beschrieben eingesetzt. Dies gilt auch für die Sonderregel,
 die Dir zusätzlich Kästchen für körperlichen Stress verschafft.
 
+[#magie-fertigkeit]
 ==== Magie
 *Neue Fertigkeit*
 
-NOTE: Kann nur erworben werden, wenn Du das Extra _Magie_ hast. Siehe <<Magie>> für Details.
+NOTE: Kann nur erworben werden, wenn Du das Extra _Magie_ hast. Siehe <<Magie-kapitel>> für Details.
 
 Mit dieser Fertigkeit kannst Du Zauber wirken, Magie erkennen und identifizieren, magische Gegenstände
 herstellen usw.
