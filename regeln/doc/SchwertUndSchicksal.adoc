@@ -39,7 +39,7 @@ include::./ressourcen.adoc[leveloffset=0]
 include::./waffen.adoc[leveloffset=0]
 
 [appendix]
-include::./changelog.adoc[leveloffset=1]
+include::../../changelog.adoc[leveloffset=1]
 
 [appendix]
 == Lizenz

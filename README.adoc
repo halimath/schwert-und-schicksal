@@ -2,7 +2,6 @@
 
 https://github.com/halimath/schwert-und-schicksal/actions/workflows/ci.yml[image:https://github.com/halimath/schwert-und-schicksal/workflows/ci/badge.svg[]]
 
-
 Ein high-Fantasy Setting für https://faterpg.de/[Fate Core] basierte Rollenspiele.
 
 Dieses Repo enthält die Quellen für das Rollenspielsystem _Schwert & Schicksal_ basierend auf den Regeln von
@@ -33,24 +32,39 @@ eine installierte _container runtime_ (also bspw. `podman` unter Linux oder `Doc
 Windows oder MacOS X). Außerdem ist GNU Make sinnvoll, da wir damit die Erstellung automatisiert
 haben.
 
-Um alle Regeln zu erzeugen, kannst Du einfach
+Um alle Regeln zu erzeugen, kannst Du im `regeln` Verzeichnis einfach
 
 ```
 $ make
 ```
 
-aufrufen. Wenn Du `docker` benutzen willst musst Du
+aufrufen. Voraussetzung dafür ist, das einige Tools auf deinem Rechner installiert sind:
+
+* GNU Make
+* asciidoctor
+* asciidoctor-pdf
+
+Außerdem musst Du die Roboto-Font sowie die 
+https://faterpg.de/download/sonstiges/Fate-Core-Font.zip[Fate-Core Font] installiert haben. Einfacher geht es,
+in dem Du einen Container-basierten Build verwendest. Dazu musst Du zunächst im `regeln` Verzeichnis den
+Container bauen:
+
 
 ```
-$ make podman=docker
+regeln $ docker build -t schwert-und-schicksal:latest -f .container/Containerfile .
 ```
 
-verwenden. Anschließend findest Du ein `out` Verzeichnis mit PDF und HTML.
+Danach kannst Du den Container ausführen. Die generierten Dateien werden nach `/out` geschrieben, das Du mit 
+einem Volume-Mount nach außen reichen kannst, bspw.
+
+```
+regeln $ docker run --rm -it -v "$(pwd)/out:/out:Z" schwert-und-schicksal:latest
+```
 
 Für das Bearbeiten der AsciiDoc-Quellen empfehlen wir einen Editor mit Vorschau und Syntax-Highlighting.
-VSCode mit der AsciiDoc-Extension sind eine sehr gute Wahl.
+VSCode oder Atom mit einer AsciiDoc-Extension funktionieren sehr gut.
 
-include::./src/changelog.adoc[leveloffset=1]
+include::./changelog.adoc[leveloffset=1]
 
 == Lizenz
 
