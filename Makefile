@@ -13,14 +13,16 @@ PODMAN = podman
 IMAGE_NAME = asciidoctor
 IMAGE_TAG = latest
 
+SRC = $(wildcard src/*.adoc)
+
 .PHONY: clean container-image all
 
 all: container-image $(OUT)/SchwertUndSchicksal.pdf $(OUT)/SchwertUndSchicksal.html $(OUT)/NSC.pdf $(OUT)/NSC.html
 
-$(OUT)/%.pdf: src/%.adoc $(OUT) styles/pdf.yml
+$(OUT)/%.pdf: src/%.adoc $(SRC) $(OUT) styles/pdf.yml
 	$(PODMAN) run --rm -it -v "$(PWD)/src:/src:Z" -v "$(PWD)/out:/out:Z" $(IMAGE_NAME):$(IMAGE_TAG) pdf -o $@ $<
 
-$(OUT)/%.html: src/%.adoc $(OUT) styles/html.css
+$(OUT)/%.html: src/%.adoc $(SRC) $(OUT) styles/html.css
 	$(PODMAN) run --rm -it -v "$(PWD)/src:/src:Z" -v "$(PWD)/out:/out:Z" $(IMAGE_NAME):$(IMAGE_TAG) html -o $@ $<
 
 container-image:

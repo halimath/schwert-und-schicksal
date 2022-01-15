@@ -1,0 +1,24 @@
+= Herausforderungen, Wettstreite und Konflikte
+
+_Schwert & Schicksal_ nutzt die Regeln für Herausforderungen, Wettstreite, Konflikte sowie für Schaden aus den
+_Fate Core_ Grundregeln mit den folgenden Ausnahmen.
+
+== Initiative
+
+Die Initiative in einem Konflikt wird nach der in 
+https://fate-srd.com/fate-condensed/challenges-conflicts-and-contests#turn-order[Fate Condensed] beschriebenen
+Methode abgehandelt, die auch als "popcorn", "handoff" oder "Balsera Style" bekannt ist.
+
+In einem Konflikt wird der zuerst handelnde Charakter aus der Erzählung bestimmt. SL: Du hast das letzte Wort.
+Jeder Charakter benennt nach seiner Handlung den nächsten Charakter. Dabei müssen alle Charakter pro Austausch
+genau einmal an die Reihe kommen. Der letzte Charakter eines Austauschs benennt den Startcharakter für den
+nächsten Austausch. Dies gilt für SC genauso wie für NSC.
+
+== Stress
+
+Auch beim Stress kommen die vereinfachten Stress-Regeln aus 
+https://fate-srd.com/fate-condensed/challenges-conflicts-and-contests#stress[Fate Condensed] zum Einsatz.
+
+Jedes Stress-Kästchen kompensiert genau eine Erfolgsstufe eines Treffers. Bei zwei Erfolgsstufen muss du
+zwei Kästchen auf dem Stressbalken markieren oder eine Konsequenz nehmen.
+
