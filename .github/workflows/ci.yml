@@ -7,8 +7,8 @@ on:
   pull_request:
 
 jobs:
-  build:
-    name: Generate HTML
+  rules:
+    name: Generate HTML rules from Asciidoc sources
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
@@ -22,5 +22,5 @@ jobs:
         with:
           version: 2.0.15
 
-      - run: asciidoctor -a stylesheet=./styles/html.css ./src/SchwertUndSchicksal.adoc
+      - run: asciidoctor -a stylesheet=./regeln/styles/html.css ./regeln/doc/SchwertUndSchicksal.adoc
       

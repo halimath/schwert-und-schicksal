@@ -161,7 +161,7 @@ die Dir zusätzlich Kästchen für körperlichen Stress verschafft.
 ==== Magie
 *Neue Fertigkeit*
 
-NOTE: Kann nur erworben werden, wenn Du das Extra _Magie_ hast. Siehe <<Magie-kapitel>> für Details.
+NOTE: Kann nur erworben werden, wenn Du das Extra _Magie_ hast. Siehe <<magie-kapitel>> für Details.
 
 Mit dieser Fertigkeit kannst Du Zauber wirken, Magie erkennen und identifizieren, magische Gegenstände
 herstellen usw.
