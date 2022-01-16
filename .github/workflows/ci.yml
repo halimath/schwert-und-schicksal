@@ -7,8 +7,8 @@ on:
   pull_request:
 
 jobs:
-  rules:
-    name: Generate HTML rules from Asciidoc sources
+  regeln:
+    name: Generiert die HTML-Version der Regeln mit Asciidoc
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
@@ -22,5 +22,26 @@ jobs:
         with:
           version: 2.0.15
 
-      - run: asciidoctor -a stylesheet=./regeln/styles/html.css ./regeln/doc/SchwertUndSchicksal.adoc
-      
+      - run: make out/SchwertUndSchicksal.html
+        working-directory: ./regeln
+  
+  charakterbogen:
+    name: Generiert das PDF des Charakterbogens
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+
+      - uses: actions/setup-node@v2
+        with:
+          node-version: '16'
+          cache: npm
+          cache-dependency-path: charakterbogen/package-lock.json
+
+      - name: Abhängigkeiten installieren
+        run: npm i
+        working-directory: charakterbogen
+
+      - name: Charakterbogen erstellen
+        run: npm run build
+        working-directory: charakterbogen
+
