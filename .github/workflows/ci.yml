@@ -35,6 +35,7 @@ jobs:
         with:
           node-version: '16'
           cache: npm
+          cache-dependency-path: charakterbogen/package-lock.json
 
       - name: Abhängigkeiten installieren
         run: npm i
