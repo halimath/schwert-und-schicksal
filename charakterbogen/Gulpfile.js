@@ -55,7 +55,7 @@ function createPdf(file, enc, cb) {
             browser.close()
         })
         .then(() => cb(null, new Vinyl({
-            path: `${basename(file.path, ".html")}-${version}.pdf`,
+            path: `${basename(file.path, ".html")}.pdf`,
             contents: pdfData,
         })))
         .catch(e => cb(e))

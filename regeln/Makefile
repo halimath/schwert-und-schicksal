@@ -1,6 +1,6 @@
-VERSION := 0.1.0
-
 OUT := out
+
+VERSION = 0.0.0
 
 RM = rm
 RM_OPTS = -rf
@@ -21,11 +21,11 @@ ASCIIDOCTOR_PDF = asciidoctor-pdf
 
 all: $(OUT)/SchwertUndSchicksal.pdf $(OUT)/SchwertUndSchicksal.html
 
-$(OUT)/%.pdf: doc/%.adoc $(SRC) $(OUT)
-	$(ASCIIDOCTOR_PDF) -a pdf-theme=$(PDF_STYLES) -a pdf-fontsdir=$(PDF_FONTS_DIR) -o $@ $<
+$(OUT)/%.pdf: doc/%.adoc $(SRC) styles/pdf.yml $(OUT)
+	$(ASCIIDOCTOR_PDF) -a revnumber=$(VERSION) -a pdf-theme=$(PDF_STYLES) -a pdf-fontsdir=$(PDF_FONTS_DIR) -o $@ $<
 
-$(OUT)/%.html: doc/%.adoc $(SRC) $(OUT)
-	$(ASCIIDOCTOR) -a stylesheet=$(HTML_STYLES) -o $@ $<
+$(OUT)/%.html: doc/%.adoc $(SRC) styles/html.css $(OUT)
+	$(ASCIIDOCTOR) -a revnumber=$(VERSION) -a stylesheet=$(HTML_STYLES) -o $@ $<
 
 $(OUT):
 	$(MKDIR) $(MKDIR_OPTS) $(OUT)
