@@ -64,7 +64,11 @@ regeln $ docker run --rm -it -v "$(pwd)/out:/out:Z" schwert-und-schicksal:latest
 Für das Bearbeiten der AsciiDoc-Quellen empfehlen wir einen Editor mit Vorschau und Syntax-Highlighting.
 VSCode oder Atom mit einer AsciiDoc-Extension funktionieren sehr gut.
 
-include::./changelog.adoc[leveloffset=1]
+== Änderungsübersicht
+
+=== Version 0.1.0
+
+Initiale Version
 
 == Lizenz
 
