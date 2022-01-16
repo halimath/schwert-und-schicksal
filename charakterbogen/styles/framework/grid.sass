@@ -28,15 +28,20 @@
         border-left: none
         border-right: none
 
+        &.semi
+            border-top-color: transparent
+            border-bottom-color: $color-half-dark
+
+            .tag
+                color: $color-half-dark
+
+
     &.no-decoration
         @extend .line
         border-bottom-color: transparent
 
-    &.temp 
-        border-style: dashed
+    &.semi 
         border-color: $color-half-dark
-        .above 
-            color: $color-half-dark
                         
     .tag
         font-size: 0.45rem
@@ -50,7 +55,7 @@
 
             display: flex
             align-items: center
-            justify-content: center
+            justify-content: start
             
             &.dark
                 @extend .border
@@ -73,6 +78,7 @@
     padding: $distance
 
     font-size: 10pt
+    min-height: 1.5rem
     background-color: $color-light
     color: $color-dark
 
@@ -92,14 +98,27 @@
     
 .row 
     display: flex
-    align-items: center
+    align-content: center
     
     &.cols-top
-        align-items: start
+        align-content: start
+
+    &.cols-stretch
+        align-content: stretch
+
+.rows
+    display: flex
+    flex-direction: column
+
+    &.stretch
+        align-content: stretch
 
 .cols
     display: flex
     flex-direction: row
+
+    &.stretch
+        align-content: stretch    
     
     & > *
         flex-grow: 1
@@ -142,3 +161,4 @@
 
 .grow-5
     flex-grow: 5 !important
+
