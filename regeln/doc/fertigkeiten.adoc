@@ -113,9 +113,9 @@ Grundregeln beschrieben einsetzen.
 [.icon]#O# Du kannst Dinge reparieren, zerstören, unbrauchbar machen oder zusammenbauen wenn Du die notwendige
 Zeit und das passende Werkzeug dafür hast.
 
-[.icon]#C# Du kannst die Fertigkeit einsetzen, um Vorteile durch die Modifikation von technischen Gegenständen
-zu erziehlen, bspw. in dem Du ein Fahrzeug tunst oder eine Waffe modifizierst. Du kannst auch technische
-Geräte sabbotieren oder Computerprogramme schreiben, die eine Recherche vereinfachen.
+[.icon]#C# Du kannst die Fertigkeit einsetzen, um Vorteile durch die Modifikation von Gegenständen
+zu erziehlen, bspw. in dem Du eine Kutsche verbesserst oder eine Waffe modifizierst. Du kannst auch Maschinen
+sabotieren.
 
 [.icon]#A# -
 
@@ -202,6 +202,7 @@ Du kannst _Provozieren_ wie in den Fate Core Grundregeln beschrieben einsetzen.
 
 Du kannst nutzt unterschiedliche Arten von Tieren, um Dich auf deren Rücken oder auch mit Hilfe von Kutschen
 fortzubewegen. Dazu gehört das
+
 * Reiten von Pferden
 * Fahren von Kutschen und Ochsenkarren
 * Fahren von Schlitten, die von Hunden gezogen werden
@@ -211,24 +212,24 @@ und andere Aktivitäten.
 
 [.icon]#O# Du kannst lange Strecken oder schwierige Wege in kurzer Zeit überwinden.
 
-[.icon]#C# Du kannst Aspekte erschaffen, die Dir die Fortbewegung mit dem entsprechenden Tier vereinfachen.
+[.icon]#C# Du kannst Aspekte erschaffen, die dir die Fortbewegung mit dem entsprechenden Tier vereinfachen.
 
-[.icon]#A# Du kannst im berittenen Kampf Dein Tier führen.
+[.icon]#A# Du kannst im berittenen Kampf dein Tier führen.
 
-[.icon]#D# Du kannst Dich im berittenen Kampf verteidigen, in dem Du ein Ausweichmanöver durchführst.
+[.icon]#D# Du kannst dich im berittenen Kampf verteidigen, in dem du ein Ausweichmanöver durchführst.
 
 ==== Ressourcen
 NOTE: Kann nicht regulär erworben oder gesteigert werden. Siehe die Beschreibung unter <<Ressourcen>>.
 
-Mit der Fertigkeit _Ressourcen_ kannst Du Dinge und Informationen kaufen, Leute bestechen und Du drückst
+Mit der Fertigkeit _Ressourcen_ kannst du Dinge und Informationen kaufen, Leute bestechen und du drückst
 dadurch Deinen Lebensstil aus.
 
 [.icon]#O# Du kannst Ressourcen nutzen, um Hindernisse, die sich Geld aus der Welt schaffen lassen zu
 überwinden. Dazu gehört insbesondere das Bestechen von Personen oder das Kaufen von Gegenständen und
 Informationen.
 
-[.icon]#C# Du kannst Ressourcen nutzen, um Personen Aspekte hinzuzufügen, dass sie Dir freundlich gestimmt
-sind, wenn sie für Geld anfällig sind. Du kannst auch einen Vorteil erschaffen, in dem Du einen Aspekt für
+[.icon]#C# Du kannst Ressourcen nutzen, um Personen Aspekte hinzuzufügen, dass sie dir freundlich gestimmt
+sind, wenn sie für Geld anfällig sind. Du kannst auch einen Vorteil erschaffen, in dem du einen Aspekt für
 einen Ausrüstungsgegenstand hinzufügst, der eine finanzielle Aufwertung darstellt.
 
 [.icon]#A# -
@@ -263,10 +264,9 @@ auf die reale Welt.
 
 ==== Wille
 Wille wird wie in den Fate Core Grundregeln beschrieben eingesetzt. Dies gilt insbesondere auch für die
-Sonderregel, die Dir zusätzliche Stressfelder für geistigen Stress bietet.
+Sonderregel, die dir zusätzliche Stressfelder für geistigen Stress bietet.
 
-[.icon]#O# Du kannst Dich in einem Konflikt in der astralen Projektion zwischen Zonen fortbewegen und
-andere Hindernisse überwinden, so wie Du es mittels <<Athletik>> in der realen Welt machst.
+[.icon]#O# Denkaufgaben, Geduldsspiele oder Rätsel sind Hindernisse, die du mit Wille überwinden kannst.
 
 [.icon]#C# Du kannst Aspekte erzeugen wie [.aspekt]#konzentriert# oder [.aspekt]#fokussiert#.
 
