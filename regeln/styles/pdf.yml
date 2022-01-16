@@ -5,6 +5,11 @@ font:
       italic: google-roboto/Roboto-Italic.ttf
       bold: google-roboto/Roboto-Bold.ttf
       bold_italic: google-roboto/Roboto-BoldItalic.ttf
+    Nautigal:
+      normal: google-nautigal/TheNautigal-Regular.ttf
+      italic: google-nautigal/TheNautigal-Regular.ttf
+      bold: google-nautigal/TheNautigal-Bold.ttf
+      bold_italic: google-nautigal/TheNautigal-Bold.ttf
     Fate-Core:
       normal: fate-core/Fate Core Font.ttf
       italic: fate-core/Fate Core Font.ttf
@@ -60,7 +65,8 @@ heading:
 
 title-page:
   title:
-    font-size: 20
+    font-family: Nautigal
+    font-size: 40
     font-style: bold
     font-color: #682a00
   subtitle:

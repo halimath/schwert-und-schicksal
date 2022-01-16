@@ -2,6 +2,7 @@ FROM alpine:latest
 
 ARG roboto_font_download_url=https://github.com/googlefonts/roboto/releases/download/v2.138/roboto-unhinted.zip
 ARG fate_core_font_download_url=https://faterpg.de/download/sonstiges/Fate-Core-Font.zip
+ARG nautigal_font_download_url_prefix=https://github.com/googlefonts/the-nautigal/raw/master/fonts/ttf
 
 RUN apk add ruby wget unzip make
 
@@ -11,6 +12,10 @@ RUN gem install asciidoctor-pdf
 RUN mkdir -p /usr/share/fonts/google-roboto
 RUN wget -O /tmp/roboto-fonts.zip ${roboto_font_download_url}
 RUN unzip -d /usr/share/fonts/google-roboto /tmp/roboto-fonts.zip -x "__MACOSX/*"
+
+RUN mkdir -p /usr/share/fonts/google-nautigal
+RUN wget -O /usr/share/fonts/google-nautigal/TheNautigal-Regular.ttf ${nautigal_font_download_url_prefix}/TheNautigal-Regular.ttf
+RUN wget -O /usr/share/fonts/google-nautigal/TheNautigal-Bold.ttf ${nautigal_font_download_url_prefix}/TheNautigal-Bold.ttf
 
 RUN mkdir -p /usr/share/fonts/fate-core
 RUN wget -O /tmp/fate-core.zip ${fate_core_font_download_url}}
