@@ -1,6 +1,5 @@
 = Schwert & Schicksal: Ein _Sword & Sorcery_ Setting für das _Fate Core_ Rollenspiel
 :author_1: Alexander Metzner <alexander.metzner@gmail.com>
-:author_2: Jan-Ulric Janietz
 :revnumber: 0.1.0
 :revnumber-caption: Version
 :doctype: book
