@@ -40,7 +40,7 @@ include::./waffen.adoc[leveloffset=0]
 [appendix]
 == Lizenz
 
-_Schwert & Schicksal_ Copyright (c) 2022 Alexander Metzner & Jan-Ulric Janietz.
+_Schwert & Schicksal_ Copyright (c) 2022 Alexander Metzner
 
 Die Regeln von _Schwert & Schicksal_ werden unter der
 http://www.opengamingfoundation.org/ogl.html[Open Gaming License (OGL) Version 1.0a] veröffentlicht. Diese
