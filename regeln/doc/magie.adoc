@@ -1,72 +1,72 @@
 [#magie-kapitel]
 == Magie
 
-Magie ist ein essentieller Bestandteil einer Fantasywelt. In _Schwert & Schicksal_ gibt es zwei verschiedene
-Arten von Magie: arkane und göttliche. Während göttliche Magie einem Charakter von einem höheren Wesen
-verliehen wird, stellt die arkane Magie eine angeborene Fähigkeit dar, mit der der Charakter die verfügbare
-arkane Energie kanalisieren und beeinflussen kann.
+_Magie_ ist ein essentieller Bestandteil einer Fantasywelt. In _Schwert & Schicksal_ gibt es zwei verschiedene
+Arten von _Magie_: _arkane_ und _göttliche_. Während _göttliche Magie_ einem Charakter von einem höheren Wesen
+verliehen wird, ist die _arkane Magie_ eine angeborene Fähigkeit, mit der der Charakter die verfügbare
+_arkane Energie_ kanalisieren und beeinflussen kann.
 
-Magie wird in _Schwert & Schicksal_ nach den Regeln für _Extras_ aus den Fate Core Grundregeln realisiert.
+Magie wird in _Schwert & Schicksal_ nach den Regeln für _Extras_ aus den _Fate Core Grundregeln_ realisiert.
 
 .Extra: Magie
 ****
-*Voraussetzung*: Dein _Konzept_ muss erwähnen, welcher Form der Magie (arkan oder göttlich) du folgst.
+*Voraussetzung*: Dein _Konzept_ muss erwähnen, welcher Form der _Magie_ (_arkan_ oder _göttlich_) Du folgst.
 
-*Preis*: Du musst mindestens 3 Fertigkeitsstufen in _Magie_ haben. Reduziere Deine Erholungsstufe um 1.
+*Preis*: Du musst mindestens 3 _Fertigkeitsstufen_ in _Magie_ haben. Reduziere Deine _Erholungsstufe_ um 1.
 
-NOTE: Nur Charaktere mit diesem Extra dürfen Fertigkeitsstufen in _Magie_ besitzen und diese Fertigkeit
+NOTE: Nur Charaktere mit diesem _Extra_ dürfen _Fertigkeitsstufen_ in _Magie_ besitzen und diese _Fertigkeit_
 einsetzen.
 
 Du kannst _Magie_ nach den unten beschriebenen Regeln einsetzen.
 
-Du erhältst zwei zusätzliche Stunts, die du ausschließlich für Zauber einsetzen kannst. Diese werden
+Du erhältst zwei zusätzliche _Stunts_, die Du ausschließlich für _Zauber_ einsetzen kannst. Diese werden
 "freie" Zauber genannt.
 ****
 
 === Magie entdecken und identifizieren
 
 Du kannst Magie entdecken und identifizieren. Dazu verwendest Du die Fertigkeit _Magie_ in der gleichen Art
-und Weise, in der Du _Wahrnehmung_ anwenden würdest. Im Wesentlichen bedeutet das, dass du _Magie_ einsetzt
-um einen Vorteil zu erschaffen.
+und Weise, in der Du _Wahrnehmung_ anwenden würdest. Im Wesentlichen bedeutet das, dass Du _Magie_ einsetzt,
+um einen _Vorteil_ zu erschaffen.
 
-Durch den erschaffenen Aspekt erhältst Du Informationen über den Umstand, dass Magie im Einsatz ist und auch
-über die ungefähre Art der Magie.
+Durch den erschaffenen _Aspekt_ erhältst Du Informationen über den Umstand, dass Magie im Einsatz ist und auch
+über die ungefähre Art der _Magie_.
 
-Um die Art der Magie genau identifizieren zu können benötigst Du eine erfolgreiche _Überwinden_ Aktion gegen
-den Schwierigkeitsgrad der Art der Magie. Dazu kannst Du den durch _Magie entdecken_ erschaffenen Aspekt
-einsetzen (mittels Fate-Punkten oder auch durch freie Einsätze). Kannst Du das Hindernis überwinden, erhältst
-du genau Informationen über die Art der Magie, bspw. welcher Zauber gewirkt wurde. SL: Du kannst erklären,
-dass die Art der Magie dennoch unbekannt ist. In diesem Fall sollte der Charakter aber das Wissen erhalten,
-dass hier eine Art von Magie im Einsatz ist, die seine Fähigkeiten übersteigt.
+Um die Art der _Magie_ genau identifizieren zu können benötigst Du eine erfolgreiche _Überwinden_-Aktion gegen
+den _Schwierigkeitsgrad_ der Art der _Magie_. Dazu kannst Du den durch _Magie entdecken_ erschaffenen _Aspekt_
+einsetzen (mittels _Fate-Punkten_ oder auch durch _freie Einsätze_). Kannst Du das _Hindernis_ überwinden, erhältst
+Du genau Informationen über die Art der _Magie_, bspw. welcher _Zauber_ gewirkt wurde. SL: Du kannst erklären,
+dass die Art der _Magie_ dennoch unbekannt ist. In diesem Fall sollte der Charakter aber das Wissen erhalten,
+dass hier eine Art von Magie im Einsatz ist, die sich seiner Kenntnis entzieht.
 
 === Zauber wirken
 
-Zauber werden mit _Stunts_ abgebildet: Jeder Zauber, den ein zauberkundiger Charakter wirken kann, ist ein
-Stunt für diesen Charakter. Du kannst eigene Zauber "erfinden", es gibt aber auch eine Auswahl an "fertigen"
-Zaubern weiter unten.
+_Zauber_ werden mit _Stunts_ abgebildet: Jeder _Zauber_, den ein zauberkundiger Charakter wirken kann, ist ein
+_Stunt_ für diesen Charakter. Du kannst eigene _Zauber_ "erfinden", es gibt aber auch eine Auswahl an "fertigen"
+_Zaubern_ weiter unten.
 
-Mit dem Erwerb des Extras _Magie_ erhältst du zwei freie Zauber für die du keine Stuntpunkte ausgeben musst.
-Weitere Zauber kannst Du erwerben, in dem du die freien Stunts einsetzt oder die Erholungsstufe weiter
+Mit dem Erwerb des _Extras Magie_ erhältst Du zwei freie _Zauber_ für die Du keine _Stuntpunkte_ ausgeben musst.
+Weitere Zauber kannst Du erwerben, in dem Du die freien _Stunts_ einsetzt oder die _Erholungsstufe_ weiter
 reduzierst.
 
-Zauber erfordern eine Fertigkeitsprobe auf _Magie_. Je nach Art des Zaubers kann dies eine [.icon]#O#,
+_Zauber_ erfordern eine Fertigkeitsprobe auf _Magie_. Je nach Art des Zaubers kann dies eine [.icon]#O#,
 [.icon]#C#, [.icon]#A# oder [.icon]#D# Aktion sein.
 
-Bei einem Fehlschlag kannst Du die Energie nicht entsprechend kanalisieren. Die erwünschte Wirkung des
-Zaubers tritt nicht ein. Du erhältst einen Aspekt, der die weiteren negativen Konsequenzen deiner Handlung
-ausdrückt, bspw. [.aspekt]#Geblendet von einem arkanen Blitz#. SL: Wähle den Aspekt so, dass er passend zur
-angepeilten Wirkung des Zaubers ist: Ein schwacher Zauber sollte bei einem Fehlschlag auch nur eine leichte
-Beeinträchtigung nach sich ziehen, während ein Fehlschlag bei einem mächtigen Zauber auch hinreichend
+Bei einem _Fehlschlag_ kannst Du die Energie nicht entsprechend kanalisieren. Die erwünschte Wirkung des
+_Zaubers_ tritt nicht ein. Du erhältst einen _Aspekt_, der die weiteren negativen Konsequenzen Deiner Handlung
+ausdrückt, bspw. [.aspekt]#Geblendet von einem arkanen Blitz#. SL: Wähle den _Aspekt_ so, dass er passend zur
+angepeilten Wirkung des _Zaubers_ ist: Ein schwacher _Zauber_ sollte bei einem Fehlschlag auch nur eine leichte
+Beeinträchtigung nach sich ziehen, während ein Fehlschlag bei einem mächtigen _Zauber_ auch hinreichend
 dramatische Folgen hat.
 
 Bei einem Gleichstand kannst Du die Energie nicht entsprechend kanalisieren. Die erwünschte Wirkung des
-Zaubers tritt nicht ein, du musst aber auch keine negativen Konsequenzen auf dich nehmen.
+_Zaubers_ tritt nicht ein, Du musst aber auch keine negativen Konsequenzen auf Dich nehmen.
 
-Bei einem Erfolg erzielt der Zauber die gewünschte Wirkung. Du kannst die Erfolgsstufen nutzen, um
+Bei einem Erfolg erzielt der _Zauber_ die gewünschte Wirkung. Du kannst die _Erfolgsstufen_ nutzen, um
 Schadenseffekt (bei Angriffszaubern) zu steigern.
 
-Bei einem vollen Erfolg erzielt der Zauber die gewünschte Wirkung. Darüber hinaus erhältst Du einen Schub, den
-du für einen weiteren Zauber einsetzen kannst.
+Bei einem _vollen Erfolg_ erzielt der _Zauber_ die gewünschte Wirkung. Darüber hinaus erhältst Du einen _Schub_, den
+Du für einen weiteren Zauber einsetzen kannst.
 
 
 === Magische Gegenstände erschaffen

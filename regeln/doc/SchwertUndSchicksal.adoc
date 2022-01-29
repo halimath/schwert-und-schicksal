@@ -15,12 +15,12 @@
 
 [preface]
 == Einleitung
-_Schwert & Schicksal_ ist ein Setting für ein high-Fantasy Rollenspiel für das generische System _Fate Core_
+_Schwert & Schicksal_ ist ein Setting für ein High-Fantasy-Rollenspiel für das generische System _Fate Core_
 im Stil von _Sword & Sorcery_. Diese Regeln basieren auf den Regeln aus dem
 https://faterpg.de/download/offiziellesmaterial/fate_core,_turbo-fate,_fate_accelerated/Fate-Core_Downloadversion.pdf[Fate Core Grundregelwerk Version 2.0].
 
-Diese Regeln verzichten auf große Kataloge von Waffen, Rüstungen, Ausrüstung, Zauber oder magische Gegenstände.
-Statt dessen werden Aspekte genutzt, um individuelle Ausprägungen zu repräsentieren. Dies soll den Spielfluss
+Diese Regeln verzichten auf große Kataloge von Waffen, Rüstungen, Ausrüstungen, Zaubern oder magischen Gegenständen.
+Stattdessen werden _Aspekte_ genutzt, um individuelle Ausprägungen zu repräsentieren. Dies soll den Spielfluss
 verbessern und den Fokus auf die Erzählung legen.
 
 CAUTION: Diese Regeln sind zur Zeit noch in der Entwicklung und werden in Teilen überarbeitet.

@@ -1,19 +1,19 @@
 == Charakteraspekte
 Bei der Erschaffung eines Charakters für _Fate Core_ legt der Spieler zunächst _Konzept_ und _Dilemma_ des
-Charakters fest. Dies gilt auch für _Schwert & Schicksal_. Danach kannst Du noch drei weitere Aspekte
+Charakters fest. Dies gilt auch für _Schwert & Schicksal_. Danach kannst Du noch drei weitere _Aspekte_
 wählen.
 
 === Rassen
 Die Rasse des Charakters in einer High-Fantasy-Welt ist durchaus wichtig und beschert dem Charakter Vorteile
 sowie auch Komplikationen. Rassen werden als _Extra_ realisiert. Jedoch muss der Charakter die Rasse in seinem
-Konzept benennen; diese kann sich auch während des Spiels nicht ändern.
+_Konzept_ benennen; diese kann sich auch während des Spiels nicht ändern.
 
 === Nutzung von Magie
-_Schwert & Schicksal_ kennt zwei Arten von Magie: arkane und göttliche. Die göttliche Magie wird einem
-Charakter durch ein höheres Wesen gewährt, während die arkane Magie eine angeborene Kraft darstellt.
+_Schwert & Schicksal_ kennt zwei Arten von _Magie_: arkane und göttliche. Die _göttliche Magie_ wird einem
+Charakter durch ein höheres Wesen gewährt, während die _arkane Magie_ eine angeborene Kraft ist.
 Regeltechnisch werden beide Arten in weiten Teilen gleich behandelt. Sie werden über ein _Extra_ realisiert.
 
-Da arkane Fähigkeiten jedoch angeboren sind, müssen diese im Konzept des Charakters benannt werden. Dabei
+Da arkane Fähigkeiten jedoch angeboren sind, müssen diese im _Konzept_ des Charakters benannt werden. Dabei
 spielt es keine Rolle, welche Begriffe  genannt werden (wie bspw. _Magier_, _Hexenmeister_, _Schamane_ oder
 _Adept_), solange alle Spieler das gleiche Verständnis davon haben, dass dieser Charakter über arkane
 Fähigkeiten verfügt.
