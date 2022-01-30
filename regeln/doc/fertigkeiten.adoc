@@ -1,10 +1,10 @@
 == Fertigkeiten
-_Schwert & Schicksal_ nutzt die vollständige Liste der _Fertigkeiten_ aus _Fate Core_. Einige der _Fertigkeiten_
-werden modifiziert oder eingeschränkt. Es kommen einige wenige neue _Fertigkeiten_ hinzu.
+_Schwert & Schicksal_ nutzt die vollständige Liste der Fertigkeiten aus _Fate Core_. Einige der Fertigkeiten
+werden modifiziert oder eingeschränkt. Es kommen einige wenige neue Fertigkeiten hinzu.
 
 === Übersicht
-Die folgende Tabelle gibt einen Überblick über alle _Fertigkeiten_ und welche Aktionen mit der jeweiligen
-_Fertigkeit_ möglich sind.
+Die folgende Tabelle gibt einen Überblick über alle Fertigkeiten und welche Aktionen mit der jeweiligen
+Fertigkeit möglich sind.
 
 <<<
 
@@ -33,17 +33,17 @@ _Fertigkeit_ möglich sind.
 | Wissen          | X | X |   | X
 |===
 
-NOTE: _Fertigkeiten_, hinter deren Namen ein Sternchen steht, können nur eingeschränkt erworben und
-gesteigert werden. Details findest Du in der jeweiligen Beschreibung dieser _Fertigkeiten_.
+NOTE: Fertigkeiten, hinter deren Namen ein Sternchen steht, können nur eingeschränkt erworben und
+gesteigert werden. Details findest Du in der jeweiligen Beschreibung dieser Fertigkeiten.
 
 === Beschreibung der Fertigkeiten
 
 ==== Athletik
 _Athletik_ wird so eingesetzt wie in den _Fate Core Grundregeln_ beschrieben.
 
-[.icon]#O# Du kannst _Hindernisse_ mittels körperlicher Bewegung überwinden: Schwimmen, Ausweichen, Rennen, ...
+[.icon]#O# Du kannst Hindernisse mittels körperlicher Bewegung überwinden: Schwimmen, Ausweichen, Rennen, ...
 
-[.icon]#C# Du kannst einen _Vorteil_ erschaffen, in dem Du auf eine höhere Position kletterst oder springst.
+[.icon]#C# Du kannst einen Vorteil erschaffen, in dem Du auf eine höhere Position kletterst oder springst.
 
 [.icon]#A# -
 
@@ -129,7 +129,7 @@ _Kämpfen_ wird wie in den _Fate Core Grundregeln_ für Nahkämpfe verwendet. Da
 auch unbewaffnete Nahkämpfe mit dieser Fertigkeit abgebildet. Für Fernkämpfe wird die Fertigkeit _<<Schießen>>_
 eingesetzt.
 
-[.icon]#O# Kämpfen wird in der Regel nicht für das Überwinden von _Hindernissen_ eingesetzt.
+[.icon]#O# Kämpfen wird in der Regel nicht für das Überwinden von Hindernissen eingesetzt.
 
 [.icon]#C# Mit Kämpfen kannst Du Vorteile erschaffen, in dem Du deinen Gegner zurückdrängst, ihn in eine
 bestimmte Richtung treibst oder ihn entwaffnest. Du kannst auch einen Vorteil erschaffen, in dem Du einen
@@ -143,11 +143,11 @@ Gegner studierst und so eine Schwachstelle in seinem Kampfstil findest.
 _Kontakte_ beschreibt Deine soziale Vernetzung. Mit dieser Fertigkeit kannst Du Informationen beschaffen,
 Gegenstände kaufen oder verkaufen, auch auf dem Schwarzmarkt, oder Aufträge bekommen.
 
-[.icon]#O# Du kannst die Fertigkeit einsetzen, um _Hindernisse_ durch die Unterstützung anderer zu lösen, in dem
+[.icon]#O# Du kannst die Fertigkeit einsetzen, um Hindernisse durch die Unterstützung anderer zu lösen, in dem
 du den passenden Händler für den Verkauf von heißer Ware findest oder jemanden auftreiben kannst, der Deine
 zerstörte Rüstung wieder repariert.
 
-[.icon]#C# Du kannst Vorteile erschaffen, wie bspw. einen Bekannten, der dir die richtigen Hintergrundinfos
+[.icon]#C# Du kannst Vorteile erschaffen, wie bspw. einen Bekannten, der dir die richtigen Hintergrundinformationen
 beschafft oder einen eingeweihten, der dir den Ort eines Geheimverstecks erzählt.
 
 [.icon]#A# -
@@ -168,7 +168,7 @@ NOTE: Kann nur erworben werden, wenn Du das Extra _Magie_ hast. Siehe <<magie-ka
 Mit dieser Fertigkeit kannst Du Zauber wirken, Magie erkennen und identifizieren, magische Gegenstände
 herstellen usw.
 
-[.icon]#O# Du kannst mittels Magie ein _Hindernis_ überwinden (bspw. eine verschlossene Tür öffnen).
+[.icon]#O# Du kannst mittels Magie ein Hindernis überwinden (bspw. eine verschlossene Tür öffnen).
 
 [.icon]#C# Du kannst mittels Magie einen Vorteil erlangen (bspw. unsichtbar werden, größer wirken oder eine
 Ablenkung in Form einer heranstürmenden Kreatur erzeugen).
@@ -180,11 +180,11 @@ verteidigen.
 
 ==== Nachforschungen
 Mit dieser Fertigkeit kannst Du Informationen über Dinge, Orte oder Situationen herausfinden, die bei
-oberflächlicher Betrachtung nicht offentsichtlich sind. Dazu gehören bspw. das systematische Suchen nach
+oberflächlicher Betrachtung nicht offensichtlich sind. Dazu gehören bspw. das systematische Suchen nach
 Geheimtüren, das Recherchen in lokalen Bibliotheken oder Archiven oder das Analysieren von Spuren an einem
 Tatort.
 
-[.icon]#O# Du kannst mittels Nachforschungen _Hindernisse_ in Form von schwer auffindbaren Informationen oder
+[.icon]#O# Du kannst mittels Nachforschungen Hindernisse in Form von schwer auffindbaren Informationen oder
 versteckten Einrichtungen überwinden.
 
 [.icon]#C# Du kannst Vorteile erzeugen, in dem Du Informationen über besonderes Verhalten oder Schwachstellen
@@ -195,7 +195,7 @@ herausfindest.
 [.icon]#D# -
 
 ==== Provozieren
-Du kannst _Provozieren_ wie in den Fate Core Grundregeln beschrieben einsetzen.
+Du kannst _Provozieren_ wie in den _Fate Core Grundregeln_ beschrieben einsetzen.
 
 [.icon]#A# Du kannst Angriffe in der astralen Projektion durchführen.
 
@@ -226,12 +226,12 @@ NOTE: Kann nicht regulär erworben oder gesteigert werden. Siehe die Beschreibun
 Mit der Fertigkeit _Ressourcen_ kannst Du Dinge und Informationen kaufen, Leute bestechen und Du drückst
 dadurch Deinen Lebensstil aus.
 
-[.icon]#O# Du kannst _Ressourcen_ nutzen, um _Hindernisse_, die sich mit Geld aus der Welt schaffen lassen, zu
+[.icon]#O# Du kannst Ressourcen nutzen, um Hindernisse, die sich mit Geld aus der Welt schaffen lassen, zu
 überwinden. Dazu gehört insbesondere das Bestechen von Personen oder das Kaufen von Gegenständen und
 Informationen.
 
-[.icon]#C# Du kannst _Ressourcen_ dazu nutzen, Personen Aspekte hinzuzufügen und kannst bewirken, dass sie Dir freundlich gestimmt
-sind, wenn sie für Geld anfällig sind. Du kannst auch einen _Vorteil_ erschaffen, in dem Du einen _Aspekt_ für
+[.icon]#C# Du kannst Ressourcen dazu nutzen, Personen Aspekte hinzuzufügen und kannst bewirken, dass sie Dir freundlich gestimmt
+sind, wenn sie für Geld anfällig sind. Du kannst auch einen Vorteil erschaffen, in dem Du einen Aspekt für
 einen Ausrüstungsgegenstand hinzufügst, der eine finanzielle Aufwertung darstellt.
 
 [.icon]#A# -
@@ -240,7 +240,7 @@ einen Ausrüstungsgegenstand hinzufügst, der eine finanzielle Aufwertung darste
 
 ==== Schießen
 Du benutzt _Schießen_ um Deine Fernkampfwaffe einzusetzen. Überlicherweise tust Du dies beim _Angreifen_, aber
-Du kannst es auch sehr gut verwenden, um Dir einen _Vorteil_ zu erschaffen (z.B. [.aspekt]#Sperrfeuer# oder
+Du kannst es auch sehr gut verwenden, um Dir einen Vorteil zu erschaffen (z.B. [.aspekt]#Sperrfeuer# oder
 [.aspekt]#Feuerschutz#). In einigen Fällen kannst Du damit auch ein _Hindernis_ überwinden.
 
 Unter Fernkampfwaffen fallen alle Bögen, Armbrüste, Schleudern, Blasrohre und auch alle Wurfwaffen, wie
@@ -253,7 +253,7 @@ Schießwettbewerbe nutzen oder aber auch um einen unbeweglichen Gegenstand wie e
 [.aspekt]#Deckungsfeuer# oder [.aspekt]#festgenagelt#. Du kannst auch versuchen, Deine Gegner zu
 [.aspekt]#entwaffnen#.
 
-[.icon]#A# Natürlich kannst Du _Schießen_ einsetzen, um mit einer Fernkampfwaffe anzugreifen.
+[.icon]#A# Natürlich kannst Du Schießen einsetzen, um mit einer Fernkampfwaffe anzugreifen.
 
 [.icon]#D# -
 
@@ -266,9 +266,9 @@ auf die reale Welt.
 
 ==== Wille
 _Wille_ wird wie in den _Fate Core Grundregeln_ beschrieben eingesetzt. Dies gilt insbesondere auch für die
-_Sonderregel_, die dir zusätzliche _Stressfelder_ für _geistigen Stress_ bietet.
+Sonderregel, die dir zusätzliche Stressfelder für geistigen Stress bietet.
 
-[.icon]#O# Denkaufgaben, Geduldsspiele oder Rätsel sind _Hindernisse_, die Du mit Wille überwinden kannst.
+[.icon]#O# Denkaufgaben, Geduldsspiele oder Rätsel sind Hindernisse, die Du mit Wille überwinden kannst.
 
 [.icon]#C# Du kannst Aspekte erzeugen wie [.aspekt]#konzentriert# oder [.aspekt]#fokussiert#.
 
