@@ -2,15 +2,15 @@
 
 [sidebar]
 ****
-Waffen und Ausrüstungen folgen den Extras-Regeln aus dem Fate Core Grundregelbuch ab S.285. Sie 
+Waffen und Ausrüstungen folgen den _Extras_-Regeln aus dem _Fate Core Grundregelbuch_ ab S.285. Sie
 verfügen über eine Waffen- bzw. Rüstungsstufe, die zusätzliche Erfolgsstufen generieren bzw.
 egalisieren.
 ****
 
-Waffen liefern zusätzliche Trefferstufen bei einem Erfolg, Rüstungen "verschlucken" Trefferstufen bei 
+Waffen liefern zusätzliche Trefferstufen bei einem Erfolg, Rüstungen "verschlucken" Trefferstufen bei
 einem Treffer. Es gibt vier Stufen für Waffen und Rüstungen.
 
-Wichtig ist dabei, dass diese Trefferstufen erst zum Tragen, wenn ein Treffer erfolgt ist. Das bedeutet,
+Wichtig ist dabei, dass diese Trefferstufen erst zum Tragen kommen, wenn ein Treffer erfolgt ist. Das bedeutet,
 dass der angreifende Charakter das Ziel zunächst treffen muss, bevor der zusätzliche Schaden der Waffe zum
 Tragen kommt.
 
@@ -25,18 +25,18 @@ CAUTION: Weitere Waffen/Rüstungen zuordnen?
 | Stufe | Nahkampfwaffen | Fernkampfwaffen | Rüstungen
 
 | 0
-| 
+|
 * Faustkampf
 * Ringkampf
 |
 * Netz
 * Bola
-| 
+|
 * nackte Haut
 * Alltagskleidung
 
 | 1
-| 
+|
 * Messer
 * Dolch
 * Knüppel
@@ -44,16 +44,16 @@ CAUTION: Weitere Waffen/Rüstungen zuordnen?
 * Blasrohr
 * Schleuder
 * Wurfmesser
-| 
+|
 _Leichte Rüstungungen_
 
 * Waffenrock
 * Lederrüstung
 * beschlagenes Leder
-* Kettenhemd 
+* Kettenhemd
 
 | 2
-| 
+|
 * Kurzschwert
 * Langschwert
 * leichter Streitkolben
@@ -72,37 +72,37 @@ _Mittelschwere Rüstungen_
 * Brustplatte
 
 | 3
-| 
+|
 * schwerer Streitkolben
 * Morgenstern
-| 
+|
 * schwere Armbrust
-| 
+|
 * Schienenpanzer
 * Bänderpanzer
 * Plattenpanzer
 * Ritterrüstung
 
 | 4
-| 
-| 
-| 
+|
+|
+|
 |===
 
 CAUTION: Wie gehen wir mit Schilden um? Aspekte?
 
 ==== Reichweiten
 
-Es gibt keine pauschalen Reichweitenbegrenzungen für Waffen. Statt dessen solltet ihr gemeinsam überlegen,
-welche Gegner von einer Waffe noch erreicht werden können. Verwendet Aspekte wie [.aspekt]#sehr weit 
+Es gibt keine pauschalen Reichweitenbegrenzungen für Waffen. Stattdessen solltet ihr gemeinsam überlegen,
+welche Gegner von einer Waffe noch erreicht werden können. Verwendet Aspekte wie [.aspekt]#sehr weit
 entfernt# mit freien Einsätzen für die Verteidigung um entsprechende Situationen aufzulösen.
 
 === Weitere Ausrüstung
 
 Wir gehen davon aus, dass die Charaktere erfahrene Abenteurer sind, die das nötige Handwerkszeug mitbringen,
 um in der Welt von _Schwert & Schicksal_ zu überleben. Wenn die Charaktere eine Laterne, ein Seil oder eine
-Tasche benötigen, dann sollten sie sie einfach dabei haben. Gilt das nicht, sollte die SL vorher einen 
-entsprechenden Aspekt festlegen - wie bspw. [.aspekt]#nur die nackte Haut# - so dass alle wissen, dass 
+Tasche benötigen, dann sollten sie sie einfach dabei haben. Gilt das nicht, sollte die SL vorher einen
+entsprechenden Aspekt festlegen - wie bspw. [.aspekt]#nur die nackte Haut# - so dass alle wissen, dass
 Ausrüstung zur Zeit rar ist. Dies gilt auch für die notwendigen Zaubermaterialien eines Magiers.
 
 Besondere Ausrüstungsgegenstände, wie bspw. das "Herz eines jungen roten Drachen" oder "100 Findernägel von

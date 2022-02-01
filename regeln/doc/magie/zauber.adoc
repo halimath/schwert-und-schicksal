@@ -3,45 +3,45 @@
 Die folgenden Abschnitte listen einige Zauber auf, die sowohl als arkane als auch göttliche Zauber gesprochen
 werden können. Die regeltechnische Auswirkung ist dabei gleich, jedoch sollte sich die erzählerische Art und
 Weise, in der der Zauber gesprochen wird, je nach Hintergrund ändern. Während der Magier einige
-unverständliche Laute spricht, wild gestikuliert und vielleich einige Materialien in die Luft wirft bevor ein
+unverständliche Laute spricht, wild gestikuliert und vielleicht einige Materialien in die Luft wirft bevor ein
 lilafarbende Wolke sich aus verschiedenen Richtungen langsam in die Form eines feurigen Balls zwängt, wird
 der Kleriker eher Lobpreisgesänge anstimmen und ein Symbol seiner Gottheit gen Himmel strecken.
 
 NOTE: Alle hier vorgestellten Zauber könnt ihr direkt verwenden oder als Ideensammlung für eigene Zauber
-verstehen. Ihr könnt die Zauber auch verändern um sie für auf die Art eures Spiels anzpassen.  In jedem Fall
+verstehen. Ihr könnt die Zauber auch verändern um sie für auf die Art eures Spiels anzupassen.  In jedem Fall
 beschreiben sie keine vollständige Liste sondern dienen vor allem als Vorlage für eigene Zauber.
 
 == Angriffszauber
 
 Angriffszauber setzt Du ein, um einen Angriff durchzuführen. Du nutzt die Aktion [.icon]#A# für die
-Würfelprobe. Falls nicht anders angegeben dürfen die Ziele mit mit [.icon]#D# auf
+Würfelprobe. Falls nicht anders angegeben dürfen die Ziele mit [.icon]#D# auf
 _Athletik_ versuchen, den Schaden abzuwehren.
 
 === Magisches Geschoss
 
-Ein Geschoss aus magischer Energie schießt aus deinen Händen auf einen Feind zu, der sich in der gleichen Zone
+Ein Geschoss aus magischer Energie schießt aus Deinen Händen auf einen Feind zu, der sich in der gleichen Zone
 aufhält wie Du. Es verursacht körperlichen Stress mit Waffenstufe 1.
 
 === Feuerstrahl / Kältestrahl / Säurestrahl
 
-Ein Strahl aus Feuer / Kälte / Säure schießt aus deiner Hand in eine Richtung deiner Wahl und trifft alle, die
-sich in dieser Richtung innerhalb der gleichen Zone wie du aufhalten. Dies gilt für Freund und Feind
+Ein Strahl aus Feuer / Kälte / Säure schießt aus Deiner Hand in eine Richtung Deiner Wahl und trifft alle, die
+sich in dieser Richtung aufhalten. Dies gilt für Freunde und Feinde
 gleichermaßen. Jede Art des Strahls gilt als eigener Zauber. Der Strahl verursacht normalen Schaden
 (Waffenstufe 0) und zusätzlich eine Konsequenz [.aspekt]#Verbrennungen#, [.aspekt]#Erfrierungen# oder
 [.aspekt]#Verätzungen# je nach Art.
 
 === Feuerball
 
-Ein Ball aus Feuer schießt aus Deiner Hand und explodiert, so dass alle Charaktere - Freunde wie Feinde -
+Ein Ball aus Feuer schießt aus Deiner Hand und explodiert, sodass alle Charaktere - Freunde wie Feinde -
 innerhalb einer von Dir benannten Zone getroffen werden. Die Zone muss an die Zone angrenzen, in der Du Dich
 aufhältst. Der Feuerball hat Waffenstufe 0. Alle getroffenen Charaktere und Gegenstände erhalten den
 Aspekt [.aspekt]#brennend#.
 
 === Manaball
 
-Ein Ball aus purer arkaner Energie schießt aus Deiner Hand und explodiert, so dass alle Charaktere - Freunde
+Ein Ball aus purer arkaner Energie schießt aus Deiner Hand und explodiert, sodass alle Charaktere - Freunde
 wie Feinde - innerhalb einer von Dir benannten Zone getroffen werden. Die Zone muss an die Zone angrenzen, in
-der Du Dich aufhältst. Der Feuerball hat Waffenstufe 2.
+der Du Dich aufhältst. Der Manaball hat Waffenstufe 2.
 
 == Verteidigungs- und Schutzzauber
 
@@ -51,19 +51,19 @@ der beim Zauber angegeben ist.
 
 === Magische Rüstung (ordentlich / +2)
 
-Ein Charakter, den du berührst (das kannst auch du selber sein) erhält den Aspekt [.aspekt]#magische Rüstung#
+Ein Charakter, den Du berührst (das kannst auch Du selber sein), erhält den Aspekt [.aspekt]#magische Rüstung#
 mit einem freien Einsatz (bzw. zwei freien Einsätzen, wenn Du einen _vollen Erfolg_ gewürfelt hast). Diesen
 Aspekt kannst Du bzw. der Charakter nutzen, um Verteidigungsproben gegen Angriffe zu verbessern. Damit kann
-normaler Waffenschaden wie auch solcher, der durch Zauber verursacht wird, reduziert werden. Der Aspekt bleibt
+normaler Waffenschaden wie auch solcher, der durch Zauber verursacht reduziert werden. Der Aspekt bleibt
 bis zum Ende der Szene erhalten.
 
 === Schutz vor Feuer / Kälte / Säure / Gift (ordentlich / +2)
 
-Ein Charakter, den du berührst (das kannst auch du selber sein) erhält den Aspekt
+Ein Charakter, den Du berührst (das kannst auch Du selber sein), erhält den Aspekt
 [.aspekt]#Schutz vor Feuer / Kälte / Säure / Gift# (entsprechend des Zaubers; jedes Element zählt als eigener
 Zauber) mit einem freien Einsatz (bzw. zwei freien Einsätzen, wenn Du einen _vollen Erfolg_ gewürfelt hast).
 Diesen Aspekt kannst Du bzw. der Charakter nutzen, um Verteidigungsproben gegen Angriffe zu verbessern. Damit
-kann normaler Waffenschaden wie auch solcher, der durch Zauber verursacht wird, reduziert werden. Der Aspekt
+kann normaler Waffenschaden wie auch durch Zauber verursachter Schaden wird, reduziert werden. Der Aspekt
 bleibt bis zum Ende der Szene erhalten.
 
 == Allgemeine Zauber
@@ -73,33 +73,33 @@ können musst Du die Aktion [.icon]#C# gegen einen passiven Widerstand schaffen,
 
 === Lautlos (ordentlich / +2)
 
-Ein Charakter, den du berührst, verursacht wird bis zum Ende der Szene keine Geräusche mehr. Gegenstände, die 
+Ein Charakter, den Du berührst, verursacht bis zum Ende der Szene keine Geräusche mehr. Gegenstände, die
 der Charakter an sich trägt, verursachen ebenfalls keine Geräusche mehr, bis sie fallen gelassen oder abgelegt
 werden.
 
 === Leichte Konsequenz heilen (durchschnittlich / +1)
 
-Du kannst eine leichte Konsquenz heilen. Dazu kannst du bei einem Charakter, den du berührst (das schließt 
-dich selber mit ein) eine leichte Konsquenz entfernen. Bei einem vollen Erfolg bekommst der Charakter einen
+Du kannst eine leichte Konesquenz heilen. Dazu kannst Du bei einem Charakter, den Du berührst (das schließt
+Dich selber mit ein) eine leichte Konsequenz entfernen. Bei einem vollen Erfolg bekommst der Charakter einen
 Schub bis zum Ende des nächsten Austausch, der es ihm erlaubt, einen Stresspunkt in der Art der geheilten
-Konsquenz zu ignorieren.
+Konsequenz zu ignorieren.
 
 === Mittlere Wunden heilen (gut / +3)
 
 Du kannst eine mittlere Konsquenz zu einer leichten Konsequenz heilen. Dazu kannst du bei einem Charakter, den
 du berührst (das schließt dich selber mit ein) eine mittlere Konsquenz in eine leichte Konsquenz umwanden. Das
-setzt voraus, dass der Charakter eine freie leichte Konsequenz hat. Falls nicht, kannst Du dieses Zauber nicht
-anwenden. Bei einem vollen Erfolg bekommst der Charakter einen Schub bis zum Ende des nächsten Austausch, der 
+setzt voraus, dass der Charakter eine freie leichte Konsequenz hat. Falls nicht, kannst Du diesen Zauber nicht
+anwenden. Bei einem vollen Erfolg bekommst der Charakter einen Schub bis zum Ende des nächsten Austausch, der
 es ihm erlaubt, einen Stresspunkt in der Art der geheilten Konsequenz zu ignorieren.
 
 === Stress abbauen (durchschnittlich / +1)
 
-Du kannst Stress in einer Konfrontation bei einem Charakter abbauen, den du berührst (das schließt dich selber
-mit ein). Entferne alle so viele Stresskästchen an _entweder_ körperlichem _oder_ geistigem Stress, wie du 
+Du kannst Stress in einer Konfrontation bei einem Charakter abbauen, den Du berührst (das schließt Dich selber
+mit ein). Entferne so viele Stresskästchen an _entweder_ körperlichem _oder_ geistigem Stress, wie Du
 Erfolgsstufen gewürfelt hast.
 
 === Unsichtbarkeit (ordentlich / +2)
 
-Ein Charakter, den du berührst, wird bis zum Ende der Szene unsichtbar. Das bedeutet, dass er nur mit Hilfe
+Ein Charakter, den Du berührst, wird bis zum Ende der Szene unsichtbar. Das bedeutet, dass er nur mit Hilfe
 eines Zaubers oder entsprechenden magischen Gegenstands gesehen werden kann. Gegenstände, die der Charakter
 an sich trägt, werden ebenfalls unsichtbar, bis sie fallen gelassen oder abgelegt werden.
