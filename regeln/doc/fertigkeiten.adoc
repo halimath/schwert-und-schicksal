@@ -34,7 +34,7 @@ Fertigkeit möglich sind.
 |===
 
 NOTE: Fertigkeiten, hinter deren Namen ein Sternchen steht, können nur eingeschränkt erworben und
-gesteigert werden. Details findest Du in der jeweiligen Beschreibung dieser Fertigkeiten.
+gesteigert werden. Details findest du in der jeweiligen Beschreibung dieser Fertigkeiten.
 
 === Beschreibung der Fertigkeiten
 
@@ -73,9 +73,9 @@ _Charisma_ wird wie in den _Fate Core Grundregeln_ beschrieben eingesetzt.
 
 ==== Diebeskunst
 Mit _Diebeskunst_ kannst Du Gegenstände stehlen, Spuren verwischen, Objekte am Körper verbergen, an Orte gelangen,
-zu denen Dir der Zutritt eigentlich verwehrt ist und Ähnliches.
+zu denen Dir der Zutritt eigentlich verwehrt ist und ähnliches.
 
-[.icon]#O# Du kannst Taschendiebstahl oder eine einfache Infiltration durchführen oder deine Spuren verwischen.
+[.icon]#O# Du kannst Taschendiebstahl, eine einfache Infiltration durchführen oder deine Spuren verwischen.
 Du kannst Schlösser knacken und Fallen überwinden.
 
 [.icon]#C# Du kannst Orte oder Personen ausspionieren und dabei Schwachstellen für einen Einbruch oder
@@ -102,12 +102,15 @@ Mit _Empathie_ kannst Du Gefühle und Regungen in Personen, Monstern und Tieren 
 [.icon]#D# Du kannst Dich mit Empathie gegen Angriffe wie _Täuschung_ verteidigen und Lügen anderer durchschauen.
 
 ===== Stunts
+* Lügendetektor
+* Therapeut
 
 ===== Sonderregel
-Du kannst _Empathie_ nutzen um anderen zu helfen, sich von geistigen Konsequenzen zu erholen.
+Du kannst _Empathie_ nutzen um anderen zu helfen, sich von geistigen Konsequenzen zu erholen. Dazu erschaffst du einen
+Vorteil, dessen _freier Einsatz_ du weitergibst. Mit dem Stunt _Therapeut_ wird dieser Einsatz verbessert.
 
 ==== Handwerk
-Umfasst alle Arten von Arbeiten an Geräten, Gebäuden und Waffen. Du kannst die Aktionen wie in den _Fate Core
+Umfasst alle Arten von Arbeiten an Geräten, Gebäuden, Waffen und Rüstungen. Du kannst die Aktionen wie in den _Fate Core
 Grundregeln_ beschrieben einsetzen.
 
 [.icon]#O# Du kannst Dinge reparieren, zerstören, unbrauchbar machen oder zusammenbauen, wenn Du die notwendige
@@ -121,8 +124,21 @@ sabotieren.
 
 [.icon]#D# -
 
+===== Stunts
+* Waffenschmied
+* Rüstungsmacher
+
 ==== Heimlichkeit
 _Heimlichkeit_ wird wie in den _Fate Core Grundregeln_ beschrieben verwendet.
+
+[.icon]#O# Du kannst dich heimlich an Orte bewegen, an denen du nicht sein solltest oder anderen Personen einen Gegenstand
+zuspielen. Die Probe kann passiven Widerstand haben oder gegen die aktive <<Wahrnehmung>> deines Gegenüber ausgeführt werden.
+
+[.icon]#C# Du kannst dich oder dein Lager verstecken.
+
+[.icon]#A# -
+
+[.icon]#V# -
 
 ==== Kämpfen
 _Kämpfen_ wird wie in den _Fate Core Grundregeln_ für Nahkämpfe verwendet. Dabei werden sowohl bewaffnete als
@@ -135,9 +151,18 @@ eingesetzt.
 bestimmte Richtung treibst oder ihn entwaffnest. Du kannst auch einen Vorteil erschaffen, in dem Du einen
 Gegner studierst und so eine Schwachstelle in seinem Kampfstil findest.
 
-[.icon]#A# MISSING
+[.icon]#A# Selbstverständlich kannst du mit _Kämpfen_ angreifen.
 
-[.icon]#D# Du kannst Dich mit Kämpfen MISSING
+[.icon]#D# Du kannst dich mit Kämpfen gegen Nahkampfangriffe verteidigen. Das Verteidigen gegen einen bewaffneten
+Angriff setzt voraus, dass du eine entsprechende Waffe führst (du kannst dich nicht kämpfend mit bloßen Händen
+gegen einen Schwertangriff verteidigen - dafür nutzt du <<Athletik>>). SL: Du hast das letzte Wort darüber, ob eine
+Verteidigung mit _Kämpfen_ zulässig ist oder nicht.
+
+===== Stunts
+
+* Waffenmeister
+* Niederschlagen
+* Rundumschlag
 
 ==== Kontakte
 _Kontakte_ beschreibt Deine soziale Vernetzung. Mit dieser Fertigkeit kannst Du Informationen beschaffen,
@@ -155,9 +180,28 @@ beschafft oder einen eingeweihten, der dir den Ort eines Geheimverstecks erzähl
 [.icon]#D# Du kannst Dich gegen soziale Angriffe verteidigen, in dem Du Kontakte hast, die Deine Reputation
 verbessern.
 
+===== Stunts
+* Ein Freund in jeder Stadt
+
 ==== Kraft
-_Kraft_ wird wie in den _Fate Core Grundregeln_ beschrieben eingesetzt. Dies gilt auch für die Sonderregel,
-die Dir zusätzlich Kästchen für körperlichen Stress verschafft.
+_Kraft_ wird wie in den _Fate Core Grundregeln_ beschrieben eingesetzt. 
+
+[.icon]#O# Du kannst verklemmte Türen öffnen, Dinge hochheben oder Einrichtungen mit bloßer Kraft zerstören.
+Du kannst _Kraft_ in einem Wettbewerb wie bsp. Armdrücken einsetzen.
+
+[.icon]#C# Du kannst Hindernisse in den Weg stellen, die deine Verfolger aufhalten oder verlangsamen. Du kannst
+eine Kutsche anheben, so dass ein anderer Charakter das defekte Wagenrad einfacher reparieren kann.
+
+[.icon]#A# -
+
+[.icon]#V# Du kannst dich in einer Schlägerei mittels Kraft verteidigen.
+
+===== Sonderregel
+
+Mit hohen Werten in Kraft erhältst du zusätzliche Felder für körperlichen Stress. Siehe <<Stress>> für weitere Informationen.
+
+===== Stunts
+* Gewichtheber
 
 [#magie-fertigkeit]
 ==== Magie
@@ -168,15 +212,19 @@ NOTE: Kann nur erworben werden, wenn Du das Extra _Magie_ hast. Siehe <<magie-ka
 Mit dieser Fertigkeit kannst Du Zauber wirken, Magie erkennen und identifizieren, magische Gegenstände
 herstellen usw.
 
-[.icon]#O# Du kannst mittels Magie ein Hindernis überwinden (bspw. eine verschlossene Tür öffnen).
+[.icon]#O# Du kannst mittels Magie ein Hindernis überwinden (bspw. eine verschlossene Tür öffnen), in dem 
+du einen entsprechenden Zauber wirkst.
 
 [.icon]#C# Du kannst mittels Magie einen Vorteil erlangen (bspw. unsichtbar werden, größer wirken oder eine
-Ablenkung in Form einer heranstürmenden Kreatur erzeugen).
+Ablenkung in Form einer heranstürmenden Kreatur erzeugen). Du kannst auch Magie entdecken und damit einen
+Aspekt aufdecken.
 
-[.icon]#A# Du kannst Kampfzauber verwenden, um andere Charakter in der physischen Welt anzugreifen.
+[.icon]#A# Du kannst Kampfzauber verwenden, um andere Charakter anzugreifen.
 
-[.icon]#D# Du kannst Gegenzauber verwenden um Dich gegen magische Angriffe in der physischen Welt zu
-verteidigen.
+[.icon]#D# Du kannst Gegenzauber verwenden um Dich gegen magische Angriffe zu verteidigen.
+
+===== Stunts
+Jeder Zauber wird als Stunt behandelt. Siehe <<magie-kapitel>> für weitere Informationen.
 
 ==== Nachforschungen
 Mit dieser Fertigkeit kannst Du Informationen über Dinge, Orte oder Situationen herausfinden, die bei
@@ -197,7 +245,15 @@ herausfindest.
 ==== Provozieren
 Du kannst _Provozieren_ wie in den _Fate Core Grundregeln_ beschrieben einsetzen.
 
-[.icon]#A# Du kannst Angriffe in der astralen Projektion durchführen.
+[.icon]#O# Du kannst an einem Türsteher vorbeikommen, in dem du ihn provozierst, so dass er seinen Posten aufgibt.
+
+[.icon]#C# Du kannst andere provozieren und dadurch einen Vorteil erlangen, in dem du sie ablenkst oder sie die
+Beherrschung verlieren lässt.
+
+[.icon]#A# Du kannst andere Charaktere mental angreifen, in dem du sie zu Aktionen provozierst, die sie
+die Beherschung verlieren lassen.
+
+[.icon]#D# -
 
 ==== Reiten
 *Neue Fertigkeit*
@@ -220,6 +276,10 @@ und ähnliche Aktivitäten.
 
 [.icon]#D# Du kannst dich im berittenen Kampf verteidigen, in dem Du ein Ausweichmanöver durchführst.
 
+===== Stunts
+
+* vertrautes Reittier
+
 ==== Ressourcen
 NOTE: Kann nicht regulär erworben oder gesteigert werden. Siehe die Beschreibung unter <<Ressourcen>>.
 
@@ -230,9 +290,9 @@ dadurch Deinen Lebensstil aus.
 überwinden. Dazu gehört insbesondere das Bestechen von Personen oder das Kaufen von Gegenständen und
 Informationen.
 
-[.icon]#C# Du kannst Ressourcen dazu nutzen, Personen Aspekte hinzuzufügen und kannst bewirken, dass sie Dir freundlich gestimmt
-sind, wenn sie für Geld anfällig sind. Du kannst auch einen Vorteil erschaffen, in dem Du einen Aspekt für
-einen Ausrüstungsgegenstand hinzufügst, der eine finanzielle Aufwertung darstellt.
+[.icon]#C# Du kannst Ressourcen dazu nutzen, Personen Aspekte hinzuzufügen und kannst bewirken, dass sie Dir 
+freundlich gestimmt sind, wenn sie für Geld anfällig sind. Du kannst auch einen Vorteil erschaffen, in dem Du 
+einen Aspekt für einen Ausrüstungsgegenstand hinzufügst, der eine finanzielle Aufwertung darstellt.
 
 [.icon]#A# -
 
@@ -257,12 +317,49 @@ Schießwettbewerbe nutzen oder aber auch um einen unbeweglichen Gegenstand wie e
 
 [.icon]#D# -
 
+===== Stunts
+
+* Scharfschütze
+* Waffenmeister
+
 ==== Täuschung
 _Täuschung_ wird wie in den _Fate Core Grundregeln_ beschrieben eingesetzt.
 
+Mit _Täuschung_ kannst du andere Charaktere über deine Motive im Unklaren lasssen oder geziehlt täuschen.
+
+[.icon]#O# Du kannst mittels Täuschung ein Hindernis überwinden, in dem du bspw. einem Türsteher eine falsche
+Geschichte auftischst.
+
+[.icon]#C# Du kannst dir einen Vorteil verschaffen, in dem du Lügengeschichten verbreitest, die dir einen Vorteil
+gewähren.
+
+[.icon]#A# -
+
+[.icon]#D# Du kannst dich mit _Täuschung_ verteidigen, falls jemand versucht, mittles _Nachforschungen_ etwas über dich
+herauszufinden.
+
+===== Stunts
+
+* Lügen über Lügen
+* Gedankenspiele
+
 ==== Wahrnehmung
-_Wahrnehmung_ wird wie in den _Fate Core Grundregeln_ beschrieben eingesetzt, bezieht sich dabei aber immer nur
-auf die reale Welt.
+_Wahrnehmung_ wird wie in den _Fate Core Grundregeln_ beschrieben eingesetzt.
+
+Du nutzt Wahrnehmung um Personen und Gegenstände um dich herum wahrzunehmen. Wahrnehmung erfasst die Situation im allgemeinen;
+für einen Blick für die Details nutzt du _Nachforschungen_.
+
+[.icon]#O# In der Regel nutzt du _Wahrnehmung_ nicht um Hindernisse zu überwinden, das es eine passive Fertigkeit ist.
+
+[.icon]#C# Du kannst Dinge hören oder sehen die dir einen Vorteil gewähren, in dem dadurch ein Aspekt offenbart wird.
+
+[.icon]#A# -
+
+[.icon]#V# Du kannst dich gegen Angriffe mit _Heimlichkeit_ verteidigen.
+
+===== Stunts
+
+* Gefahreninstinkt
 
 ==== Wille
 _Wille_ wird wie in den _Fate Core Grundregeln_ beschrieben eingesetzt. Dies gilt insbesondere auch für die
@@ -276,5 +373,27 @@ Sonderregel, die dir zusätzliche Stressfelder für geistigen Stress bietet.
 
 [.icon]#D# Du nutzt Wille zur Verteidigung gegen geistige Angriffe.
 
+===== Sonderregel
+
+Mit hohen Werten in Wille erhältst du zusätzliche Felder für gesitigen Stress. Siehe <<Stress>> für weitere Informationen.
+
+===== Stunts
+
+* Stärke durch Entschlossenheit
+* Abgebrüht
+
 ==== Wissen
 In Bezug auf die Aktionen wird _Wissen_ wie in den _Fate Core Grundregeln_ beschrieben eingesetzt.
+
+[.icon]#O# Du nutzt Wissen, um Probleme zu lösen, die mit erlerntem Wissen gelöst werden können. Dazu gehört bspw.
+das Übersetzen einer alten Sprache oder auch das Finden von Büchern in einer alten Bibliothek.
+
+[.icon]#C# Du kannst mit Wissen Aspekte erzeugen, die dein Wissen über bestimmte Monster oder andere Gegener darstellen.
+
+[.icon]#A# -
+
+[.icon]#D# -
+
+===== Stunts
+
+* Davon hab ich gelesen
