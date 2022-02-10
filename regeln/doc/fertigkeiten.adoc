@@ -8,7 +8,7 @@ Fertigkeit möglich sind.
 
 <<<
 
-[frame=ends, grid=rows, stripes=even, cols="<2h,4*^1"]
+[frame=ends, grid=none, stripes=odd, cols="<2h,4*^1"]
 |===
 | Fertigkeit      | [.icon]#O# | [.icon]#C# | [.icon]#A# | [.icon]#D#
 
