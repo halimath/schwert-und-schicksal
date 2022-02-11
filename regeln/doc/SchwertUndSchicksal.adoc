@@ -7,7 +7,7 @@
 :caution-caption: Work in progress
 :toc:
 :toc-title: Inhaltsverzeichnis
-:toclevels: 4
+:toclevels: 3
 :example-caption: Beispiel
 :sectanchors:
 :sectnums:
