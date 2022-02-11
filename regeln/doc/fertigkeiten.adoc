@@ -24,7 +24,7 @@ Fertigkeit möglich sind.
 | Magie *         | X | X | X | X
 | Nachforschungen | X | X |   |
 | Provozieren     | X | X | X |
-| Reiten          | X | X | X | X
+| Reiten          | X | X |   |  
 | Ressourcen *    | X | X | X | X
 | Schießen        | X | X | X |
 | Täuschung       | X | X |   | X
@@ -153,16 +153,18 @@ Gegner studierst und so eine Schwachstelle in seinem Kampfstil findest.
 
 [.icon]#A# Selbstverständlich kannst du mit _Kämpfen_ angreifen.
 
-[.icon]#D# Du kannst dich mit Kämpfen gegen Nahkampfangriffe verteidigen. Das Verteidigen gegen einen bewaffneten
-Angriff setzt voraus, dass du eine entsprechende Waffe führst (du kannst dich nicht kämpfend mit bloßen Händen
-gegen einen Schwertangriff verteidigen - dafür nutzt du <<Athletik>>). SL: Du hast das letzte Wort darüber, ob eine
-Verteidigung mit _Kämpfen_ zulässig ist oder nicht.
+[.icon]#D# Du kannst dich mit Kämpfen gegen Nahkampfangriffe verteidigen. Das Verteidigen gegen einen 
+bewaffneten Angriff setzt voraus, dass du eine entsprechende Waffe führst (du kannst dich nicht kämpfend mit 
+bloßen Händen gegen einen Schwertangriff verteidigen - dafür nutzt du <<Athletik>>). SL: Du hast das letzte 
+Wort darüber, ob eine Verteidigung mit _Kämpfen_ zulässig ist oder nicht.
 
 ===== Stunts
 
 * Waffenmeister
 * Niederschlagen
 * Rundumschlag
+* Hinterhältiger Angriff
+* Entwaffnender Schlag
 
 ==== Kontakte
 _Kontakte_ beschreibt Deine soziale Vernetzung. Mit dieser Fertigkeit kannst Du Informationen beschaffen,
@@ -172,8 +174,8 @@ Gegenstände kaufen oder verkaufen, auch auf dem Schwarzmarkt, oder Aufträge be
 du den passenden Händler für den Verkauf von heißer Ware findest oder jemanden auftreiben kannst, der Deine
 zerstörte Rüstung wieder repariert.
 
-[.icon]#C# Du kannst Vorteile erschaffen, wie bspw. einen Bekannten, der dir die richtigen Hintergrundinformationen
-beschafft oder einen eingeweihten, der dir den Ort eines Geheimverstecks erzählt.
+[.icon]#C# Du kannst Vorteile erschaffen, wie bspw. einen Bekannten, der dir die richtigen 
+Hintergrundinformationen beschafft oder einen eingeweihten, der dir den Ort eines Geheimverstecks erzählt.
 
 [.icon]#A# -
 
@@ -189,8 +191,8 @@ _Kraft_ wird wie in den _Fate Core Grundregeln_ beschrieben eingesetzt.
 [.icon]#O# Du kannst verklemmte Türen öffnen, Dinge hochheben oder Einrichtungen mit bloßer Kraft zerstören.
 Du kannst _Kraft_ in einem Wettbewerb wie bsp. Armdrücken einsetzen.
 
-[.icon]#C# Du kannst Hindernisse in den Weg stellen, die deine Verfolger aufhalten oder verlangsamen. Du kannst
-eine Kutsche anheben, so dass ein anderer Charakter das defekte Wagenrad einfacher reparieren kann.
+[.icon]#C# Du kannst Hindernisse in den Weg stellen, die deine Verfolger aufhalten oder verlangsamen. Du 
+kannst eine Kutsche anheben, so dass ein anderer Charakter das defekte Wagenrad einfacher reparieren kann.
 
 [.icon]#A# -
 
@@ -198,7 +200,8 @@ eine Kutsche anheben, so dass ein anderer Charakter das defekte Wagenrad einfach
 
 ===== Sonderregel
 
-Mit hohen Werten in Kraft erhältst du zusätzliche Felder für körperlichen Stress. Siehe <<Stress>> für weitere Informationen.
+Mit hohen Werten in Kraft erhältst du zusätzliche Felder für körperlichen Stress. Siehe <<Stress>> für weitere
+Informationen.
 
 ===== Stunts
 * Gewichtheber
@@ -236,22 +239,27 @@ Tatort.
 versteckten Einrichtungen überwinden.
 
 [.icon]#C# Du kannst Vorteile erzeugen, in dem Du Informationen über besonderes Verhalten oder Schwachstellen
-herausfindest.
+herausfindest. Du kannst Spuren lesen und dadurch Aspekte erzeugen, die dir die Richtung, die Art der Wesen
+usw. hinter einer Spur aufzeigen.
 
 [.icon]#A# -
 
 [.icon]#D# -
 
+===== Stunts
+* Fährtenleser
+
 ==== Provozieren
 Du kannst _Provozieren_ wie in den _Fate Core Grundregeln_ beschrieben einsetzen.
 
-[.icon]#O# Du kannst an einem Türsteher vorbeikommen, in dem du ihn provozierst, so dass er seinen Posten aufgibt.
+[.icon]#O# Du kannst an einem Türsteher vorbeikommen, in dem du ihn provozierst, so dass er seinen Posten 
+aufgibt.
 
-[.icon]#C# Du kannst andere provozieren und dadurch einen Vorteil erlangen, in dem du sie ablenkst oder sie die
-Beherrschung verlieren lässt.
+[.icon]#C# Du kannst andere provozieren und dadurch einen Vorteil erlangen, in dem du sie ablenkst oder sie 
+die Beherrschung verlieren lässt.
 
-[.icon]#A# Du kannst andere Charaktere mental angreifen, in dem du sie zu Aktionen provozierst, die sie
-die Beherschung verlieren lassen.
+[.icon]#A# Du kannst andere Charaktere mental angreifen, in dem du sie zu Aktionen provozierst, die sie die 
+Beherschung verlieren lassen.
 
 [.icon]#D# -
 
@@ -268,13 +276,17 @@ fortzubewegen. Dazu gehört das
 
 und ähnliche Aktivitäten.
 
+Für das "normale" Reiten ohne Zeitdruck auf angemessenem Terrain ist keine Probe auf diese Fertigkeit 
+erforderlich. Wenn du aber besonders schnell oder durch gefährliches Terrain unterwegs bist, kann dies als
+Hindernis gelten. SL: Du entscheidest, wann eine Probe notwendig ist.
+
 [.icon]#O# Du kannst lange Strecken oder schwierige Wege in kurzer Zeit überwinden.
 
 [.icon]#C# Du kannst Aspekte erschaffen, die dir die Fortbewegung mit dem entsprechenden Tier vereinfachen.
 
-[.icon]#A# Du kannst im berittenen Kampf dein Tier führen.
+[.icon]#A# -
 
-[.icon]#D# Du kannst dich im berittenen Kampf verteidigen, in dem Du ein Ausweichmanöver durchführst.
+[.icon]#D# -
 
 ===== Stunts
 
@@ -297,6 +309,10 @@ einen Aspekt für einen Ausrüstungsgegenstand hinzufügst, der eine finanzielle
 [.icon]#A# -
 
 [.icon]#D# -
+
+===== Stunts
+
+Für die Fertigkeit Ressourcen kannst du _keine_ Stunts erwerben.
 
 ==== Schießen
 Du benutzt _Schießen_ um Deine Fernkampfwaffe einzusetzen. Überlicherweise tust Du dies beim _Angreifen_, aber
@@ -321,6 +337,7 @@ Schießwettbewerbe nutzen oder aber auch um einen unbeweglichen Gegenstand wie e
 
 * Scharfschütze
 * Waffenmeister
+* Hinterhältiger Angriff
 
 ==== Täuschung
 _Täuschung_ wird wie in den _Fate Core Grundregeln_ beschrieben eingesetzt.
