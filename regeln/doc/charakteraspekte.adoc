@@ -13,7 +13,13 @@ _Schwert & Schicksal_ kennt zwei Arten von Magie: arkane und göttliche. Die gö
 Charakter durch ein höheres Wesen gewährt, während die arkane Magie eine angeborene Kraft ist.
 Regeltechnisch werden beide Arten in weiten Teilen gleich behandelt. Sie werden über ein _Extra_ realisiert.
 
-Da arkane Fähigkeiten jedoch angeboren sind, müssen diese im Konzept des Charakters benannt werden. Dabei
-spielt es keine Rolle, welche Begriffe  genannt werden (wie bspw. _Magier_, _Hexenmeister_, _Schamane_ oder
-_Adept_), solange alle Spieler das gleiche Verständnis davon haben, dass dieser Charakter über arkane
-Fähigkeiten verfügt.
+Um Magie einsetzen zu können muss der Charakter über das Extra _Magie_ verfügen, was es erforderlich macht,
+dass der Charakter einen Aspekt besitzt, der die Art der Magie benennt. Dabei spielt es keine Rolle, welche 
+Begriffe genannt werden (wie bspw. _Magier_, _Hexenmeister_, _Schamane_, _Adept_, _Priester_, _Kleriker), 
+solange alle Spieler das gleiche Verständnis davon haben, dass dieser Charakter über eine magische Fähigkeit 
+verfügt.
+
+Wenn du bereits bei der Charaktererschaffung festlegst, dass der Charakter über magische Fähigkeiten verfügt,
+kannst du dies im _Konzept_ des Charakters aufnehmen (bspw. _elfischer Magier_). Wenn du dies erst später
+hinzufügen möchtest (beim Erreichen eines Meilensteins), musst du einen bestehenden Aspekt entsprechend
+abändern.
