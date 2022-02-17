@@ -24,7 +24,7 @@ Fertigkeit möglich sind.
 | Magie *         | X | X | X | X
 | Nachforschungen | X | X |   |
 | Provozieren     | X | X | X |
-| Reiten          | X | X |   |  
+| Reiten          | X | X |   |
 | Ressourcen *    | X | X | X | X
 | Schießen        | X | X | X |
 | Täuschung       | X | X |   | X
@@ -34,7 +34,7 @@ Fertigkeit möglich sind.
 |===
 
 NOTE: Fertigkeiten, hinter deren Namen ein Sternchen steht, können nur eingeschränkt erworben und
-gesteigert werden. Details findest du in der jeweiligen Beschreibung dieser Fertigkeiten.
+gesteigert werden. Details findest Du in der jeweiligen Beschreibung dieser Fertigkeiten.
 
 === Beschreibung der Fertigkeiten
 
@@ -73,7 +73,7 @@ _Charisma_ wird wie in den _Fate Core Grundregeln_ beschrieben eingesetzt.
 
 ==== Diebeskunst
 Mit _Diebeskunst_ kannst Du Gegenstände stehlen, Spuren verwischen, Objekte am Körper verbergen, an Orte gelangen,
-zu denen Dir der Zutritt eigentlich verwehrt ist und ähnliches.
+zu denen Dir der Zutritt eigentlich verwehrt ist und Ähnliches.
 
 [.icon]#O# Du kannst Taschendiebstahl, eine einfache Infiltration durchführen oder deine Spuren verwischen.
 Du kannst Schlösser knacken und Fallen überwinden.
@@ -106,8 +106,8 @@ Mit _Empathie_ kannst Du Gefühle und Regungen in Personen, Monstern und Tieren 
 * Therapeut
 
 ===== Sonderregel
-Du kannst _Empathie_ nutzen um anderen zu helfen, sich von geistigen Konsequenzen zu erholen. Dazu erschaffst du einen
-Vorteil, dessen _freier Einsatz_ du weitergibst. Mit dem Stunt _Therapeut_ wird dieser Einsatz verbessert.
+Du kannst _Empathie_ nutzen um anderen zu helfen, sich von geistigen Konsequenzen zu erholen. Dazu erschaffst Du einen
+Vorteil, dessen _freier Einsatz_ Du weitergibst. Mit dem Stunt _Therapeut_ wird dieser Einsatz verbessert.
 
 ==== Handwerk
 Umfasst alle Arten von Arbeiten an Geräten, Gebäuden, Waffen und Rüstungen. Du kannst die Aktionen wie in den _Fate Core
@@ -131,10 +131,10 @@ sabotieren.
 ==== Heimlichkeit
 _Heimlichkeit_ wird wie in den _Fate Core Grundregeln_ beschrieben verwendet.
 
-[.icon]#O# Du kannst dich heimlich an Orte bewegen, an denen du nicht sein solltest oder anderen Personen einen Gegenstand
-zuspielen. Die Probe kann passiven Widerstand haben oder gegen die aktive <<Wahrnehmung>> deines Gegenüber ausgeführt werden.
+[.icon]#O# Du kannst dich heimlich an Orte bewegen, an denen Du nicht sein solltest oder anderen Personen einen Gegenstand
+zuspielen. Die Probe kann passiven Widerstand haben oder gegen die aktive <<Wahrnehmung>> Deines Gegenüber ausgeführt werden.
 
-[.icon]#C# Du kannst dich oder dein Lager verstecken.
+[.icon]#C# Du kannst Dich oder dein Lager verstecken.
 
 [.icon]#A# -
 
@@ -151,15 +151,14 @@ eingesetzt.
 bestimmte Richtung treibst oder ihn entwaffnest. Du kannst auch einen Vorteil erschaffen, in dem Du einen
 Gegner studierst und so eine Schwachstelle in seinem Kampfstil findest.
 
-[.icon]#A# Selbstverständlich kannst du mit _Kämpfen_ angreifen.
+[.icon]#A# Selbstverständlich kannst Du mit _Kämpfen_ angreifen.
 
-[.icon]#D# Du kannst dich mit Kämpfen gegen Nahkampfangriffe verteidigen. Das Verteidigen gegen einen 
-bewaffneten Angriff setzt voraus, dass du eine entsprechende Waffe führst (du kannst dich nicht kämpfend mit 
-bloßen Händen gegen einen Schwertangriff verteidigen - dafür nutzt du <<Athletik>>). SL: Du hast das letzte 
+[.icon]#D# Du kannst Dich mit Kämpfen gegen Nahkampfangriffe verteidigen. Das Verteidigen gegen einen
+bewaffneten Angriff setzt voraus, dass Du eine entsprechende Waffe führst (Du kannst Dich nicht kämpfend mit
+bloßen Händen gegen einen Schwertangriff verteidigen - dafür nutzt Du <<Athletik>>). SL: Du hast das letzte
 Wort darüber, ob eine Verteidigung mit _Kämpfen_ zulässig ist oder nicht.
 
 ===== Stunts
-
 * Waffenmeister
 * Niederschlagen
 * Rundumschlag
@@ -174,7 +173,7 @@ Gegenstände kaufen oder verkaufen, auch auf dem Schwarzmarkt, oder Aufträge be
 du den passenden Händler für den Verkauf von heißer Ware findest oder jemanden auftreiben kannst, der Deine
 zerstörte Rüstung wieder repariert.
 
-[.icon]#C# Du kannst Vorteile erschaffen, wie bspw. einen Bekannten, der dir die richtigen 
+[.icon]#C# Du kannst Vorteile erschaffen, wie bspw. einen Bekannten, der dir die richtigen
 Hintergrundinformationen beschafft oder einen eingeweihten, der dir den Ort eines Geheimverstecks erzählt.
 
 [.icon]#A# -
@@ -186,17 +185,17 @@ verbessern.
 * Ein Freund in jeder Stadt
 
 ==== Kraft
-_Kraft_ wird wie in den _Fate Core Grundregeln_ beschrieben eingesetzt. 
+_Kraft_ wird wie in den _Fate Core Grundregeln_ beschrieben eingesetzt.
 
 [.icon]#O# Du kannst verklemmte Türen öffnen, Dinge hochheben oder Einrichtungen mit bloßer Kraft zerstören.
 Du kannst _Kraft_ in einem Wettbewerb wie bsp. Armdrücken einsetzen.
 
-[.icon]#C# Du kannst Hindernisse in den Weg stellen, die deine Verfolger aufhalten oder verlangsamen. Du 
-kannst eine Kutsche anheben, so dass ein anderer Charakter das defekte Wagenrad einfacher reparieren kann.
+[.icon]#C# Du kannst Hindernisse in den Weg stellen, die deine Verfolger aufhalten oder verlangsamen. Du
+kannst eine Kutsche anheben, sodass ein anderer Charakter das defekte Wagenrad einfacher reparieren kann.
 
 [.icon]#A# -
 
-[.icon]#V# Du kannst dich in einer Schlägerei mittels Kraft verteidigen.
+[.icon]#V# Du kannst Dich in einer Schlägerei mittels Kraft verteidigen.
 
 ===== Sonderregel
 
@@ -215,7 +214,7 @@ NOTE: Kann nur erworben werden, wenn Du das Extra _Magie_ hast. Siehe <<magie-ka
 Mit dieser Fertigkeit kannst Du Zauber wirken, Magie erkennen und identifizieren, magische Gegenstände
 herstellen usw.
 
-[.icon]#O# Du kannst mittels Magie ein Hindernis überwinden (bspw. eine verschlossene Tür öffnen), in dem 
+[.icon]#O# Du kannst mittels Magie ein Hindernis überwinden (bspw. eine verschlossene Tür öffnen), in dem
 du einen entsprechenden Zauber wirkst.
 
 [.icon]#C# Du kannst mittels Magie einen Vorteil erlangen (bspw. unsichtbar werden, größer wirken oder eine
@@ -252,14 +251,14 @@ usw. hinter einer Spur aufzeigen.
 ==== Provozieren
 Du kannst _Provozieren_ wie in den _Fate Core Grundregeln_ beschrieben einsetzen.
 
-[.icon]#O# Du kannst an einem Türsteher vorbeikommen, in dem du ihn provozierst, so dass er seinen Posten 
+[.icon]#O# Du kannst an einem Türsteher vorbeikommen, in dem Du ihn provozierst, sodass er seinen Posten
 aufgibt.
 
-[.icon]#C# Du kannst andere provozieren und dadurch einen Vorteil erlangen, in dem du sie ablenkst oder sie 
+[.icon]#C# Du kannst andere provozieren und dadurch einen Vorteil erlangen, in dem Du sie ablenkst oder sie
 die Beherrschung verlieren lässt.
 
-[.icon]#A# Du kannst andere Charaktere mental angreifen, in dem du sie zu Aktionen provozierst, die sie die 
-Beherschung verlieren lassen.
+[.icon]#A# Du kannst andere Charaktere mental angreifen, in dem Du sie zu Aktionen provozierst, die sie die
+Beherrschung verlieren lassen.
 
 [.icon]#D# -
 
@@ -276,7 +275,7 @@ fortzubewegen. Dazu gehört das
 
 und ähnliche Aktivitäten.
 
-Für das "normale" Reiten ohne Zeitdruck auf angemessenem Terrain ist keine Probe auf diese Fertigkeit 
+Für das "normale" Reiten ohne Zeitdruck auf angemessenem Terrain ist keine Probe auf diese Fertigkeit
 erforderlich. Wenn du aber besonders schnell oder durch gefährliches Terrain unterwegs bist, kann dies als
 Hindernis gelten. SL: Du entscheidest, wann eine Probe notwendig ist.
 
@@ -289,7 +288,6 @@ Hindernis gelten. SL: Du entscheidest, wann eine Probe notwendig ist.
 [.icon]#D# -
 
 ===== Stunts
-
 * vertrautes Reittier
 
 ==== Ressourcen
@@ -302,8 +300,8 @@ dadurch Deinen Lebensstil aus.
 überwinden. Dazu gehört insbesondere das Bestechen von Personen oder das Kaufen von Gegenständen und
 Informationen.
 
-[.icon]#C# Du kannst Ressourcen dazu nutzen, Personen Aspekte hinzuzufügen und kannst bewirken, dass sie Dir 
-freundlich gestimmt sind, wenn sie für Geld anfällig sind. Du kannst auch einen Vorteil erschaffen, in dem Du 
+[.icon]#C# Du kannst Ressourcen dazu nutzen, Personen Aspekte hinzuzufügen und kannst bewirken, dass sie Dir
+freundlich gestimmt sind, wenn sie für Geld anfällig sind. Du kannst auch einen Vorteil erschaffen, in dem Du
 einen Aspekt für einen Ausrüstungsgegenstand hinzufügst, der eine finanzielle Aufwertung darstellt.
 
 [.icon]#A# -
@@ -311,7 +309,6 @@ einen Aspekt für einen Ausrüstungsgegenstand hinzufügst, der eine finanzielle
 [.icon]#D# -
 
 ===== Stunts
-
 Für die Fertigkeit Ressourcen kannst du _keine_ Stunts erwerben.
 
 ==== Schießen
@@ -334,7 +331,6 @@ Schießwettbewerbe nutzen oder aber auch um einen unbeweglichen Gegenstand wie e
 [.icon]#D# -
 
 ===== Stunts
-
 * Scharfschütze
 * Waffenmeister
 * Hinterhältiger Angriff
@@ -342,40 +338,38 @@ Schießwettbewerbe nutzen oder aber auch um einen unbeweglichen Gegenstand wie e
 ==== Täuschung
 _Täuschung_ wird wie in den _Fate Core Grundregeln_ beschrieben eingesetzt.
 
-Mit _Täuschung_ kannst du andere Charaktere über deine Motive im Unklaren lasssen oder geziehlt täuschen.
+Mit _Täuschung_ kannst du andere Charaktere über deine Motive im Unklaren lassen oder gezielt täuschen.
 
-[.icon]#O# Du kannst mittels Täuschung ein Hindernis überwinden, in dem du bspw. einem Türsteher eine falsche
+[.icon]#O# Du kannst mittels Täuschung ein Hindernis überwinden, in dem Du bspw. einem Türsteher eine falsche
 Geschichte auftischst.
 
-[.icon]#C# Du kannst dir einen Vorteil verschaffen, in dem du Lügengeschichten verbreitest, die dir einen Vorteil
+[.icon]#C# Du kannst Dir einen Vorteil verschaffen, in dem Du Lügengeschichten verbreitest, die Dir einen Vorteil
 gewähren.
 
 [.icon]#A# -
 
-[.icon]#D# Du kannst dich mit _Täuschung_ verteidigen, falls jemand versucht, mittles _Nachforschungen_ etwas über dich
+[.icon]#D# Du kannst Dich mit _Täuschung_ verteidigen, falls jemand versucht, mittles _Nachforschungen_ etwas über Dich
 herauszufinden.
 
 ===== Stunts
-
 * Lügen über Lügen
 * Gedankenspiele
 
 ==== Wahrnehmung
 _Wahrnehmung_ wird wie in den _Fate Core Grundregeln_ beschrieben eingesetzt.
 
-Du nutzt Wahrnehmung um Personen und Gegenstände um dich herum wahrzunehmen. Wahrnehmung erfasst die Situation im allgemeinen;
-für einen Blick für die Details nutzt du _Nachforschungen_.
+Du nutzt Wahrnehmung um Personen und Gegenstände um Dich herum wahrzunehmen. Wahrnehmung erfasst die Situation im allgemeinen;
+für einen Blick für die Details nutzt Du _Nachforschungen_.
 
-[.icon]#O# In der Regel nutzt du _Wahrnehmung_ nicht um Hindernisse zu überwinden, das es eine passive Fertigkeit ist.
+[.icon]#O# In der Regel nutzt Du _Wahrnehmung_ nicht um Hindernisse zu überwinden, da es eine passive Fertigkeit ist.
 
-[.icon]#C# Du kannst Dinge hören oder sehen die dir einen Vorteil gewähren, in dem dadurch ein Aspekt offenbart wird.
+[.icon]#C# Du kannst Dinge hören oder sehen die Dir einen Vorteil gewähren, in dem dadurch ein Aspekt offenbart wird.
 
 [.icon]#A# -
 
-[.icon]#V# Du kannst dich gegen Angriffe mit _Heimlichkeit_ verteidigen.
+[.icon]#V# Du kannst Dich gegen Angriffe mit _Heimlichkeit_ verteidigen.
 
 ===== Stunts
-
 * Gefahreninstinkt
 
 ==== Wille
@@ -392,12 +386,11 @@ Sonderregel, die dir zusätzliche Stressfelder für geistigen Stress bietet.
 
 ===== Sonderregel
 
-Mit hohen Werten in Wille erhältst du zusätzliche Felder für gesitigen Stress. Siehe <<Stress>> für weitere Informationen.
+Mit hohen Werten in Wille erhältst Du zusätzliche Felder für geistigen Stress. Siehe <<Stress>> für weitere Informationen.
 
 ===== Stunts
-
 * Stärke durch Entschlossenheit
-* Abgebrüht
+* abgebrüht
 
 ==== Wissen
 In Bezug auf die Aktionen wird _Wissen_ wie in den _Fate Core Grundregeln_ beschrieben eingesetzt.
@@ -405,12 +398,11 @@ In Bezug auf die Aktionen wird _Wissen_ wie in den _Fate Core Grundregeln_ besch
 [.icon]#O# Du nutzt Wissen, um Probleme zu lösen, die mit erlerntem Wissen gelöst werden können. Dazu gehört bspw.
 das Übersetzen einer alten Sprache oder auch das Finden von Büchern in einer alten Bibliothek.
 
-[.icon]#C# Du kannst mit Wissen Aspekte erzeugen, die dein Wissen über bestimmte Monster oder andere Gegener darstellen.
+[.icon]#C# Du kannst mit Wissen Aspekte erzeugen, die Dein Wissen über bestimmte Monster oder andere Gegner darstellen.
 
 [.icon]#A# -
 
 [.icon]#D# -
 
 ===== Stunts
-
 * Davon hab ich gelesen
